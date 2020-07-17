@@ -449,9 +449,18 @@ class MDEQNet(nn.Module):
         if 0 <= train_step < self.pretrain_steps:
             for layer_ind in range(self.num_layers):
                 z_list = self.fullstage(z_list, x_list)
+
+                print('Running from mdeq_core...')
+                print('--Pre-train--')
         else:
             if train_step == self.pretrain_steps:
                 torch.cuda.empty_cache()
+
+                print('Running from mdeq_core...')
+                print('--Training--')
+                print('x_list.shape: {}'.format(len(x_list)))
+
+            # self.deq is MDEQWrapper!
             z_list = self.deq(z_list, x_list, threshold=f_thres, train_step=train_step, writer=writer)
         
         y_list = self.iodrop(z_list)

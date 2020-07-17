@@ -39,6 +39,11 @@ class DEQFunc2d(Function):
         return func(z1, u, *args)
 
     @staticmethod
+    def f_x(func, z1, u, cutoffs, *args):
+        z1_list = DEQFunc2d.vec2list(z1, cutoffs)
+        return DEQFunc2d.list2vec(DEQFunc2d.f(func, z1_list, u, *args))
+
+    @staticmethod
     def g(func, z1, u, cutoffs, *args):
         z1_list = DEQFunc2d.vec2list(z1, cutoffs)
         return DEQFunc2d.list2vec(DEQFunc2d.f(func, z1_list, u, *args)) - z1
@@ -68,6 +73,26 @@ class DEQFunc2d(Function):
         threshold, train_step, writer = args[-3:]
 
         g = lambda x: DEQFunc2d.g(func, x, u, cutoffs, *args)
+
+        # Calculate dF/dx:
+        x_temp = z1_est.clone().detach().requires_grad_()
+
+        #print('x_temp: {}'.format(x_temp))
+        print('x_temp.shape: {}'.format(x_temp.shape))
+        print('u[0].shape: {}'.format(u[0].shape))
+        print('u[1].shape: {}'.format(u[1].shape))
+        print('u[2].shape: {}'.format(u[2].shape))
+
+
+        with torch.enable_grad():
+            f_x = DEQFunc2d.f_x(func, x_temp, u, cutoffs, *args)
+            f_x.backward(x_temp)
+            x_temp_norm = torch.norm(x_temp,2)
+            grad_f_x_norm = torch.norm(x_temp.grad,2)
+            print('x_temp_norm: {}'.format(x_temp_norm))
+            print('grad_f_x_norm: {}'.format(grad_f_x_norm))
+            stop;
+
         result_info = broyden(g, z1_est, threshold=threshold, eps=eps, name="forward")
         z1_est = result_info['result']
         nstep = result_info['nstep']
@@ -83,6 +108,7 @@ class DEQFunc2d(Function):
                 writer.add_scalar('forward/final_trace', result_info['new_trace'][lowest_step], train_step)
 
         status = analyze_broyden(result_info, judge=True)
+        #print('status: {}'.format(status))
         if status:
             err = {"z1": z1}
             analyze_broyden(result_info, err=err, judge=False, name="forward", save_err=False)
@@ -157,7 +183,8 @@ class DEQModule2d(nn.Module):
             eps = 2e-10 * np.sqrt(bsz * seq_len * d_model)
             dl_df_est = torch.zeros_like(grad)
 
-            result_info = broyden(g, dl_df_est, threshold=threshold, eps=eps, name="backward")
+            #result_info = broyden(g, dl_df_est, threshold=threshold, eps=eps, name="backward")
+            result_info = broyden(g, dl_df_est, threshold=1, eps=eps, name="backward")
             dl_df_est = result_info['result']
             nstep = result_info['nstep']
             lowest_step = result_info['lowest_step']
@@ -177,6 +204,7 @@ class DEQModule2d(nn.Module):
             if threshold > 30:
                 torch.cuda.empty_cache()
 
+            # Delete graph
             y.backward(torch.zeros_like(dl_df_est), retain_graph=False)
 
             grad_args = [None for _ in range(len(args))]
