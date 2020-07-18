@@ -1,0 +1,78 @@
+Traceback (most recent call last):
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 2, in <module>
+    from tensorboard.summary.writer.record_writer import RecordWriter  # noqa F401
+ModuleNotFoundError: No module named 'tensorboard'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/h/skhalid/mdeq/tools/cls_train.py", line 22, in <module>
+    from torch.utils.tensorboard import SummaryWriter
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 4, in <module>
+    raise ImportError('TensorBoard logging requires TensorBoard with Python summary writer installed. '
+ImportError: TensorBoard logging requires TensorBoard with Python summary writer installed. This should be available in 1.14 or above.
+Traceback (most recent call last):
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 2, in <module>
+    from tensorboard.summary.writer.record_writer import RecordWriter  # noqa F401
+ModuleNotFoundError: No module named 'tensorboard'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/h/skhalid/mdeq/tools/cls_train.py", line 22, in <module>
+    from torch.utils.tensorboard import SummaryWriter
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 4, in <module>
+    raise ImportError('TensorBoard logging requires TensorBoard with Python summary writer installed. '
+ImportError: TensorBoard logging requires TensorBoard with Python summary writer installed. This should be available in 1.14 or above.
+Traceback (most recent call last):
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 2, in <module>
+    from tensorboard.summary.writer.record_writer import RecordWriter  # noqa F401
+ModuleNotFoundError: No module named 'tensorboard'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/h/skhalid/mdeq/tools/cls_train.py", line 22, in <module>
+    from torch.utils.tensorboard import SummaryWriter
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 4, in <module>
+    raise ImportError('TensorBoard logging requires TensorBoard with Python summary writer installed. '
+ImportError: TensorBoard logging requires TensorBoard with Python summary writer installed. This should be available in 1.14 or above.
+Traceback (most recent call last):
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 2, in <module>
+    from tensorboard.summary.writer.record_writer import RecordWriter  # noqa F401
+ModuleNotFoundError: No module named 'tensorboard'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/h/skhalid/mdeq/tools/cls_train.py", line 22, in <module>
+    from torch.utils.tensorboard import SummaryWriter
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 4, in <module>
+    raise ImportError('TensorBoard logging requires TensorBoard with Python summary writer installed. '
+ImportError: TensorBoard logging requires TensorBoard with Python summary writer installed. This should be available in 1.14 or above.
+Traceback (most recent call last):
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 2, in <module>
+    from tensorboard.summary.writer.record_writer import RecordWriter  # noqa F401
+ModuleNotFoundError: No module named 'tensorboard'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/h/skhalid/mdeq/tools/cls_train.py", line 22, in <module>
+    from torch.utils.tensorboard import SummaryWriter
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 4, in <module>
+    raise ImportError('TensorBoard logging requires TensorBoard with Python summary writer installed. '
+ImportError: TensorBoard logging requires TensorBoard with Python summary writer installed. This should be available in 1.14 or above.
+Traceback (most recent call last):
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 2, in <module>
+    from tensorboard.summary.writer.record_writer import RecordWriter  # noqa F401
+ModuleNotFoundError: No module named 'tensorboard'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/h/skhalid/mdeq/tools/cls_train.py", line 22, in <module>
+    from torch.utils.tensorboard import SummaryWriter
+  File "/pkgs/anaconda3/lib/python3.6/site-packages/torch/utils/tensorboard/__init__.py", line 4, in <module>
+    raise ImportError('TensorBoard logging requires TensorBoard with Python summary writer installed. '
+ImportError: TensorBoard logging requires TensorBoard with Python summary writer installed. This should be available in 1.14 or above.
