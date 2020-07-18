@@ -392,6 +392,7 @@ class MDEQNet(nn.Module):
             param.requires_grad_(False)
         self.deq = MDEQWrapper(self.fullstage, self.fullstage_copy)
         self.iodrop = VariationalHidDropout2d(0.0)
+        self.df_dx = 0
         
     def parse_cfg(self, cfg):
         global DEQ_EXPAND, NUM_GROUPS
@@ -462,7 +463,8 @@ class MDEQNet(nn.Module):
 
             # self.deq is MDEQWrapper!
             z_list = self.deq(z_list, x_list, threshold=f_thres, train_step=train_step, writer=writer)
-        
+            self.df_dx = self.deq.df_dx
+
         y_list = self.iodrop(z_list)
         return y_list
     

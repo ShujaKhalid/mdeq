@@ -15,7 +15,7 @@ from core.cls_evaluate import accuracy
 logger = logging.getLogger(__name__)
 
 
-def train(config, train_loader, model, criterion, optimizer, lr_scheduler, epoch,
+def train(args, config, train_loader, model, criterion, optimizer, lr_scheduler, epoch,
           output_dir, tb_log_dir, writer_dict, topk=(1,5)):
     batch_time = AverageMeter()
     data_time = AverageMeter()
@@ -40,10 +40,16 @@ def train(config, train_loader, model, criterion, optimizer, lr_scheduler, epoch
         #target = target - 1 # Specific for imagenet
 
         # compute output
-        output = model(input, train_step=(lr_scheduler._step_count-1), writer=writer_dict['writer'])
+        output, df_dx = model(input, train_step=(lr_scheduler._step_count-1), writer=writer_dict['writer'])
         target = target.cuda(non_blocking=True)
 
-        loss = criterion(output, target)
+        n = args.lbd
+        loss_reg = n*torch.norm((torch.mean(df_dx, 0)-1),2)**2
+        loss = criterion(output, target) + loss_reg
+
+        #print('loss_reg: {}'.format(loss_reg))
+        #print('criterion(output, target): {}'.format(criterion(output, target)))
+        #print('loss: {}'.format(loss))
 
         # compute gradient and do update step
         optimizer.zero_grad()
@@ -101,7 +107,7 @@ def validate(config, val_loader, model, criterion, lr_scheduler, epoch, output_d
         end = time.time()
         for i, (input, target) in enumerate(val_loader):
             # compute output
-            output = model(input, 
+            output, _ = model(input, 
                            train_step=-1,       # Evaluate using MDEQ (even when pre-training)
                            writer=writer_dict['writer'])
             target = target.cuda(non_blocking=True)

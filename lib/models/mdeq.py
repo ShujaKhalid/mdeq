@@ -85,6 +85,7 @@ class MDEQClsNet(MDEQNet):
         # Classification Head
         self.incre_modules, self.downsamp_modules, self.final_layer = self._make_head(self.num_channels)
         self.classifier = nn.Linear(self.final_chansize, self.num_classes)
+        self.df_dx = 0
             
     def _make_head(self, pre_stage_channels):
         """
@@ -142,7 +143,7 @@ class MDEQClsNet(MDEQNet):
     
     def forward(self, x, train_step=0, **kwargs):
         y_list = self._forward(x, train_step, **kwargs)
-        
+
         # Classification Head
         y = self.incre_modules[0](y_list[0])
         for i in range(len(self.downsamp_modules)):
@@ -156,7 +157,7 @@ class MDEQClsNet(MDEQNet):
             y = F.avg_pool2d(y, kernel_size=y.size()[2:]).view(y.size(0), -1)
         y = self.classifier(y)
         
-        return y
+        return y, self.df_dx
     
     def init_weights(self, pretrained='',):
         """
@@ -203,6 +204,7 @@ class MDEQSegNet(MDEQNet):
                
     def forward(self, x, train_step=0, **kwargs):
         y = self._forward(x, train_step, **kwargs)
+
         
         # Segmentation Head
         y0_h, y0_w = y[0].size(2), y[0].size(3)

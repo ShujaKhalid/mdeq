@@ -19,6 +19,7 @@ from termcolor import colored
 import copy
 sys.path.append("../")
 from modules.broyden import broyden, analyze_broyden
+from modules.broyden_opt import broyden_opt, analyze_broyden
 from tqdm import tqdm
 
 import logging
@@ -74,27 +75,30 @@ class DEQFunc2d(Function):
 
         g = lambda x: DEQFunc2d.g(func, x, u, cutoffs, *args)
 
+        # '''
         # Calculate dF/dx:
-        x_temp = z1_est.clone().detach().requires_grad_()
+        # '''
+        # x_temp = z1_est.clone().detach().requires_grad_()
 
-        #print('x_temp: {}'.format(x_temp))
-        print('x_temp.shape: {}'.format(x_temp.shape))
-        print('u[0].shape: {}'.format(u[0].shape))
-        print('u[1].shape: {}'.format(u[1].shape))
-        print('u[2].shape: {}'.format(u[2].shape))
+        # with torch.enable_grad():
+        #     f_x = DEQFunc2d.f_x(func, x_temp, u, cutoffs, *args)
 
+        # def f(x):
+        #     f_x.backward(x, retain_graph=True)
+        #     df_dx = x_temp.grad.clone()
+        #     x_temp.grad.zero_()
+        #     return df_dx
 
-        with torch.enable_grad():
-            f_x = DEQFunc2d.f_x(func, x_temp, u, cutoffs, *args)
-            f_x.backward(x_temp)
-            x_temp_norm = torch.norm(x_temp,2)
-            grad_f_x_norm = torch.norm(x_temp.grad,2)
-            print('x_temp_norm: {}'.format(x_temp_norm))
-            print('grad_f_x_norm: {}'.format(grad_f_x_norm))
-            stop;
-
-        result_info = broyden(g, z1_est, threshold=threshold, eps=eps, name="forward")
+        result_info = broyden_opt(g, 0, z1_est, threshold=threshold, eps=eps, name="forward")
         z1_est = result_info['result']
+
+        # # Here is your grad_f_x
+        # df_dx = f(z1_est)
+        # df_dx_norm = torch.norm(df_dx,2)
+        # print()
+        # print('===> Forward <===')
+        # print('df_dx_norm: {}'.format(df_dx_norm))
+
         nstep = result_info['nstep']
         lowest_step = result_info['lowest_step']
         diff = result_info['diff']
@@ -169,13 +173,35 @@ class DEQModule2d(nn.Module):
             func = ctx.func
             z1_temp = z1.clone().detach().requires_grad_()
             u_temp = [elem.clone().detach() for elem in u]
-            args_temp = args[:-1]
-            
+            args_temp = args[:-1]            
+
+            # '''
+            # Calculate dF/dx
+            # '''
+            # with torch.enable_grad():
+            #     f_x = DEQFunc2d.f_x(func, z1_temp, u_temp, cutoffs, *args)
+
+            # def f(x):
+            #     f_x.backward(x, retain_graph=True)
+            #     df_dx = z1_temp.grad.clone()
+            #     z1_temp.grad.zero_()
+            #     return df_dx
+
+            # # Here is your grad_f_x
+            # df_dx = f(z1_temp)
+            # print('df_dx_norm: {}'.format(torch.norm(df_dx)))
+
+            '''
+            Calculate dL/df_est
+            '''
+
             with torch.enable_grad():
                 y = DEQFunc2d.g(func, z1_temp, u_temp, cutoffs, *args_temp)
 
             def g(x):
                 y.backward(x, retain_graph=True)  # Retain for future calls to g
+                #print(torch.norm(x))
+                #print(torch.norm(z1_temp.grad))
                 res = z1_temp.grad + grad
                 z1_temp.grad.zero_()
                 return res
@@ -192,6 +218,7 @@ class DEQModule2d(nn.Module):
             if dl_df_est.get_device() == 0:
                 if writer is not None:
                     writer.add_scalar('backward/diff', result_info['diff'], train_step)
+                    #writer.add_scalar('backward/torch.norm(df_dx)', torch.norm(df_dx), train_step)
                     writer.add_scalar('backward/nstep', result_info['nstep'], train_step)
                     writer.add_scalar('backward/lowest_step', result_info['lowest_step'], train_step)
                     writer.add_scalar('backward/final_trace', result_info['new_trace'][lowest_step], train_step)
@@ -208,4 +235,5 @@ class DEQModule2d(nn.Module):
             y.backward(torch.zeros_like(dl_df_est), retain_graph=False)
 
             grad_args = [None for _ in range(len(args))]
+
             return (None, dl_df_est, None, *grad_args)

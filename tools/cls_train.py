@@ -31,6 +31,7 @@ from utils.utils import get_optimizer
 from utils.utils import save_checkpoint
 from utils.utils import create_logger
 from termcolor import colored
+from mdeq_core import MDEQNet
 
 
 def parse_args():
@@ -65,6 +66,10 @@ def parse_args():
                         help="Modify config options using the command-line",
                         default=None,
                         nargs=argparse.REMAINDER)
+    parser.add_argument('--lbd',
+                        help='lambda for regularizing the loss function and speeding up convergence',
+                        required=True,
+                        type=float)
 
     args = parser.parse_args()
     update_config(config, args)
@@ -218,9 +223,12 @@ def main():
             lr_scheduler.step()
             
         # train for one epoch
-        train(config, train_loader, model, criterion, optimizer, lr_scheduler, epoch,
+        #print()
+        #print('Before train(): ')
+        train(args, config, train_loader, model, criterion, optimizer, lr_scheduler, epoch,
               final_output_dir, tb_log_dir, writer_dict, topk=topk)
         torch.cuda.empty_cache()
+        #print('After train(): ')
         
         # evaluate on validation set
         perf_indicator = validate(config, valid_loader, model, criterion, lr_scheduler, epoch,
