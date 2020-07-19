@@ -12,7 +12,7 @@
 . /etc/profile.d/lmod.sh
 . grandproj.env
 module use /pkgs/environment-modules/
-pytorch1.4-cuda10.1-python3.6
+module load pytorch1.4-cuda10.1-python3.6
 /h/skhalid/mdeq/_runner.sh
 #(while true; do nvidia-smi; top -b -n 1 | head -20; sleep 10; done) &
 #python /h/skhalid/pytorch.py
