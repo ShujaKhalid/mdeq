@@ -2,12 +2,12 @@
 .DS_Store/
 __pycache__/
 *.so
-log/
+#log/
 *.pt
 *.pkl
 *.pth
 *.ckpt
-*.log
+#*.log
 data/
 output/
 *.ipynb

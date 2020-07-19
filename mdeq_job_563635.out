@@ -1739,3 +1739,14 @@ Epoch: [35][700/782]	Time 0.310s (0.271s)	Speed 206.1 samples/s	Data 0.000s (0.0
 Test: Time 0.215	Loss 1.4842	Error@1 53.250	Error@5 100.000	Accuracy@1 46.750	Accuracy@5 0.000	
 => saving checkpoint to output/cifar10/cls_mdeq_TINY
 Epoch: [36][0/782]	Time 7.928s (7.928s)	Speed 8.1 samples/s	Data 7.562s (7.562s)	Loss 5866.73730 (5866.73730)	Accuracy@1 53.125 (53.125)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][100/782]	Time 0.246s (0.336s)	Speed 260.3 samples/s	Data 0.000s (0.075s)	Loss 5842.72314 (5856.27111)	Accuracy@1 45.312 (45.606)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][200/782]	Time 0.225s (0.296s)	Speed 283.9 samples/s	Data 0.000s (0.038s)	Loss 5871.82959 (5857.84464)	Accuracy@1 31.250 (45.639)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][300/782]	Time 0.239s (0.282s)	Speed 267.7 samples/s	Data 0.000s (0.025s)	Loss 5849.56494 (5857.95232)	Accuracy@1 40.625 (45.432)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][400/782]	Time 0.241s (0.275s)	Speed 265.4 samples/s	Data 0.000s (0.019s)	Loss 5875.70947 (5858.60172)	Accuracy@1 56.250 (45.359)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][500/782]	Time 0.244s (0.270s)	Speed 262.8 samples/s	Data 0.000s (0.015s)	Loss 5838.27344 (5858.36626)	Accuracy@1 51.562 (45.281)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][600/782]	Time 0.265s (0.268s)	Speed 241.7 samples/s	Data 0.000s (0.013s)	Loss 5867.43359 (5858.26669)	Accuracy@1 42.188 (45.448)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][700/782]	Time 0.236s (0.266s)	Speed 271.7 samples/s	Data 0.000s (0.011s)	Loss 5849.52100 (5857.97676)	Accuracy@1 43.750 (45.315)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.224	Loss 1.4928	Error@1 53.660	Error@5 100.000	Accuracy@1 46.340	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [37][0/782]	Time 8.417s (8.417s)	Speed 7.6 samples/s	Data 7.667s (7.667s)	Loss 5874.83838 (5874.83838)	Accuracy@1 35.938 (35.938)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][100/782]	Time 0.268s (0.346s)	Speed 238.9 samples/s	Data 0.000s (0.076s)	Loss 5868.59619 (5858.66384)	Accuracy@1 62.500 (45.545)	Accuracy@5 0.000 (0.000)	
