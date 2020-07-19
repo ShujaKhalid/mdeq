@@ -1750,3 +1750,1217 @@ Test: Time 0.224	Loss 1.4928	Error@1 53.660	Error@5 100.000	Accuracy@1 46.340	Ac
 => saving checkpoint to output/cifar10/cls_mdeq_TINY
 Epoch: [37][0/782]	Time 8.417s (8.417s)	Speed 7.6 samples/s	Data 7.667s (7.667s)	Loss 5874.83838 (5874.83838)	Accuracy@1 35.938 (35.938)	Accuracy@5 0.000 (0.000)	
 Epoch: [37][100/782]	Time 0.268s (0.346s)	Speed 238.9 samples/s	Data 0.000s (0.076s)	Loss 5868.59619 (5858.66384)	Accuracy@1 62.500 (45.545)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][200/782]	Time 0.227s (0.303s)	Speed 281.9 samples/s	Data 0.000s (0.038s)	Loss 5908.74219 (5857.85664)	Accuracy@1 48.438 (45.499)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][300/782]	Time 0.246s (0.288s)	Speed 260.6 samples/s	Data 0.000s (0.026s)	Loss 5880.17822 (5857.78488)	Accuracy@1 34.375 (45.359)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][400/782]	Time 0.310s (0.284s)	Speed 206.8 samples/s	Data 0.000s (0.019s)	Loss 5848.90234 (5856.94988)	Accuracy@1 42.188 (45.507)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][500/782]	Time 0.251s (0.279s)	Speed 254.5 samples/s	Data 0.000s (0.015s)	Loss 5851.51855 (5856.69298)	Accuracy@1 40.625 (45.500)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][600/782]	Time 0.233s (0.276s)	Speed 275.2 samples/s	Data 0.000s (0.013s)	Loss 5855.31055 (5857.11022)	Accuracy@1 39.062 (45.422)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][700/782]	Time 0.239s (0.273s)	Speed 267.8 samples/s	Data 0.000s (0.011s)	Loss 5858.03418 (5857.49498)	Accuracy@1 40.625 (45.419)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.238	Loss 1.4798	Error@1 53.490	Error@5 100.000	Accuracy@1 46.510	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [38][0/782]	Time 8.151s (8.151s)	Speed 7.9 samples/s	Data 7.816s (7.816s)	Loss 5872.35547 (5872.35547)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][100/782]	Time 0.256s (0.340s)	Speed 249.6 samples/s	Data 0.000s (0.078s)	Loss 5844.04199 (5855.01975)	Accuracy@1 42.188 (45.978)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][200/782]	Time 0.234s (0.296s)	Speed 273.0 samples/s	Data 0.000s (0.039s)	Loss 5861.35107 (5855.03278)	Accuracy@1 43.750 (46.067)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][300/782]	Time 0.243s (0.286s)	Speed 263.4 samples/s	Data 0.000s (0.026s)	Loss 5860.80566 (5855.43894)	Accuracy@1 39.062 (45.671)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][400/782]	Time 0.252s (0.280s)	Speed 254.0 samples/s	Data 0.000s (0.020s)	Loss 5847.14111 (5855.82147)	Accuracy@1 43.750 (45.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][500/782]	Time 0.255s (0.276s)	Speed 250.8 samples/s	Data 0.000s (0.016s)	Loss 5840.77588 (5856.48153)	Accuracy@1 43.750 (45.493)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][600/782]	Time 0.244s (0.272s)	Speed 262.8 samples/s	Data 0.000s (0.013s)	Loss 5876.64551 (5856.21097)	Accuracy@1 45.312 (45.572)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][700/782]	Time 0.259s (0.270s)	Speed 247.4 samples/s	Data 0.000s (0.011s)	Loss 5867.21191 (5856.55420)	Accuracy@1 42.188 (45.596)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.207	Loss 1.4749	Error@1 53.000	Error@5 100.000	Accuracy@1 47.000	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [39][0/782]	Time 8.110s (8.110s)	Speed 7.9 samples/s	Data 7.777s (7.777s)	Loss 5824.14453 (5824.14453)	Accuracy@1 48.438 (48.438)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][100/782]	Time 0.229s (0.335s)	Speed 279.0 samples/s	Data 0.000s (0.077s)	Loss 5849.54102 (5858.49773)	Accuracy@1 50.000 (44.848)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][200/782]	Time 0.236s (0.300s)	Speed 271.7 samples/s	Data 0.000s (0.039s)	Loss 5834.99170 (5859.17487)	Accuracy@1 46.875 (45.616)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][300/782]	Time 0.263s (0.286s)	Speed 243.2 samples/s	Data 0.000s (0.026s)	Loss 5882.08350 (5859.23181)	Accuracy@1 45.312 (45.868)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][400/782]	Time 0.264s (0.281s)	Speed 242.1 samples/s	Data 0.000s (0.020s)	Loss 5857.59619 (5858.89778)	Accuracy@1 42.188 (45.741)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][500/782]	Time 0.221s (0.274s)	Speed 289.8 samples/s	Data 0.000s (0.016s)	Loss 5857.89355 (5859.17452)	Accuracy@1 34.375 (45.684)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][600/782]	Time 0.299s (0.273s)	Speed 214.1 samples/s	Data 0.000s (0.013s)	Loss 5866.18701 (5858.90185)	Accuracy@1 46.875 (45.528)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][700/782]	Time 0.270s (0.271s)	Speed 237.4 samples/s	Data 0.000s (0.011s)	Loss 5830.49463 (5858.18803)	Accuracy@1 48.438 (45.729)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.226	Loss 1.4659	Error@1 52.680	Error@5 100.000	Accuracy@1 47.320	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [40][0/782]	Time 8.133s (8.133s)	Speed 7.9 samples/s	Data 7.793s (7.793s)	Loss 5844.78271 (5844.78271)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][100/782]	Time 0.266s (0.333s)	Speed 240.2 samples/s	Data 0.000s (0.077s)	Loss 5861.34668 (5856.73666)	Accuracy@1 40.625 (45.297)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][200/782]	Time 0.223s (0.290s)	Speed 286.4 samples/s	Data 0.000s (0.039s)	Loss 5889.15039 (5857.69539)	Accuracy@1 37.500 (45.406)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][300/782]	Time 0.257s (0.281s)	Speed 248.9 samples/s	Data 0.000s (0.026s)	Loss 5856.69336 (5858.36892)	Accuracy@1 35.938 (45.084)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][400/782]	Time 0.223s (0.273s)	Speed 286.6 samples/s	Data 0.000s (0.020s)	Loss 5857.20752 (5857.88357)	Accuracy@1 48.438 (45.367)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][500/782]	Time 0.256s (0.269s)	Speed 250.5 samples/s	Data 0.000s (0.016s)	Loss 5866.96240 (5857.46921)	Accuracy@1 42.188 (45.456)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][600/782]	Time 0.325s (0.267s)	Speed 196.7 samples/s	Data 0.000s (0.013s)	Loss 5845.23828 (5857.69440)	Accuracy@1 42.188 (45.557)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][700/782]	Time 0.229s (0.267s)	Speed 278.9 samples/s	Data 0.000s (0.011s)	Loss 5881.60889 (5857.85913)	Accuracy@1 57.812 (45.533)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.212	Loss 1.4697	Error@1 52.910	Error@5 100.000	Accuracy@1 47.090	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [41][0/782]	Time 8.056s (8.056s)	Speed 7.9 samples/s	Data 7.715s (7.715s)	Loss 5861.69092 (5861.69092)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][100/782]	Time 0.263s (0.338s)	Speed 243.6 samples/s	Data 0.000s (0.077s)	Loss 5834.23145 (5857.34470)	Accuracy@1 42.188 (45.498)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][200/782]	Time 0.220s (0.303s)	Speed 290.4 samples/s	Data 0.000s (0.039s)	Loss 5840.40869 (5857.48727)	Accuracy@1 48.438 (45.320)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][300/782]	Time 0.246s (0.289s)	Speed 260.5 samples/s	Data 0.000s (0.026s)	Loss 5873.87451 (5856.78583)	Accuracy@1 37.500 (45.505)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][400/782]	Time 0.251s (0.281s)	Speed 254.6 samples/s	Data 0.000s (0.019s)	Loss 5840.89844 (5857.45913)	Accuracy@1 42.188 (45.566)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][500/782]	Time 0.256s (0.277s)	Speed 249.8 samples/s	Data 0.000s (0.016s)	Loss 5907.03857 (5857.64517)	Accuracy@1 42.188 (45.515)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][600/782]	Time 0.273s (0.275s)	Speed 234.3 samples/s	Data 0.000s (0.013s)	Loss 5854.49609 (5857.57355)	Accuracy@1 40.625 (45.466)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][700/782]	Time 0.257s (0.273s)	Speed 248.6 samples/s	Data 0.000s (0.011s)	Loss 5871.51709 (5857.61460)	Accuracy@1 51.562 (45.395)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.212	Loss 1.4773	Error@1 53.040	Error@5 100.000	Accuracy@1 46.960	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [42][0/782]	Time 7.934s (7.934s)	Speed 8.1 samples/s	Data 7.592s (7.592s)	Loss 5862.65820 (5862.65820)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][100/782]	Time 0.262s (0.334s)	Speed 244.1 samples/s	Data 0.000s (0.075s)	Loss 5860.98389 (5858.47318)	Accuracy@1 60.938 (46.813)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][200/782]	Time 0.257s (0.298s)	Speed 248.8 samples/s	Data 0.000s (0.038s)	Loss 5854.39111 (5857.60910)	Accuracy@1 46.875 (46.836)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][300/782]	Time 0.269s (0.287s)	Speed 237.6 samples/s	Data 0.000s (0.025s)	Loss 5876.60840 (5858.17829)	Accuracy@1 42.188 (46.247)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][400/782]	Time 0.261s (0.280s)	Speed 245.1 samples/s	Data 0.000s (0.019s)	Loss 5854.36768 (5858.42557)	Accuracy@1 37.500 (45.807)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][500/782]	Time 0.245s (0.276s)	Speed 261.7 samples/s	Data 0.000s (0.015s)	Loss 5875.67285 (5858.10408)	Accuracy@1 54.688 (45.621)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][600/782]	Time 0.253s (0.274s)	Speed 253.2 samples/s	Data 0.000s (0.013s)	Loss 5874.45312 (5857.99401)	Accuracy@1 45.312 (45.747)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][700/782]	Time 0.279s (0.271s)	Speed 229.2 samples/s	Data 0.000s (0.011s)	Loss 5868.35693 (5858.12226)	Accuracy@1 40.625 (45.580)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.216	Loss 1.4787	Error@1 52.940	Error@5 100.000	Accuracy@1 47.060	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [43][0/782]	Time 8.709s (8.709s)	Speed 7.3 samples/s	Data 7.614s (7.614s)	Loss 5879.67822 (5879.67822)	Accuracy@1 50.000 (50.000)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][100/782]	Time 0.244s (0.347s)	Speed 262.7 samples/s	Data 0.000s (0.076s)	Loss 5896.44092 (5857.97912)	Accuracy@1 35.938 (44.941)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][200/782]	Time 0.245s (0.305s)	Speed 261.6 samples/s	Data 0.000s (0.038s)	Loss 5872.67627 (5857.15373)	Accuracy@1 48.438 (45.452)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][300/782]	Time 0.271s (0.292s)	Speed 236.2 samples/s	Data 0.000s (0.025s)	Loss 5835.75781 (5856.87947)	Accuracy@1 50.000 (45.484)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][400/782]	Time 0.266s (0.285s)	Speed 240.3 samples/s	Data 0.000s (0.019s)	Loss 5865.02588 (5855.84451)	Accuracy@1 37.500 (45.605)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][500/782]	Time 0.254s (0.280s)	Speed 252.1 samples/s	Data 0.000s (0.015s)	Loss 5854.33350 (5855.94484)	Accuracy@1 50.000 (45.684)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][600/782]	Time 0.244s (0.275s)	Speed 262.2 samples/s	Data 0.000s (0.013s)	Loss 5847.83936 (5856.29822)	Accuracy@1 48.438 (45.726)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][700/782]	Time 0.310s (0.273s)	Speed 206.3 samples/s	Data 0.000s (0.011s)	Loss 5861.94287 (5856.35113)	Accuracy@1 54.688 (45.584)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.4780	Error@1 52.960	Error@5 100.000	Accuracy@1 47.040	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [44][0/782]	Time 8.029s (8.029s)	Speed 8.0 samples/s	Data 7.598s (7.598s)	Loss 5816.82227 (5816.82227)	Accuracy@1 34.375 (34.375)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][100/782]	Time 0.266s (0.338s)	Speed 241.0 samples/s	Data 0.000s (0.075s)	Loss 5880.48584 (5857.39442)	Accuracy@1 46.875 (45.622)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][200/782]	Time 0.263s (0.302s)	Speed 243.6 samples/s	Data 0.000s (0.038s)	Loss 5882.52686 (5857.35797)	Accuracy@1 48.438 (45.585)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][300/782]	Time 0.262s (0.287s)	Speed 243.9 samples/s	Data 0.000s (0.025s)	Loss 5862.21045 (5856.01836)	Accuracy@1 53.125 (45.427)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][400/782]	Time 0.235s (0.279s)	Speed 272.0 samples/s	Data 0.000s (0.019s)	Loss 5837.87988 (5856.26267)	Accuracy@1 39.062 (45.574)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][500/782]	Time 0.253s (0.276s)	Speed 253.3 samples/s	Data 0.000s (0.015s)	Loss 5866.48242 (5856.23711)	Accuracy@1 57.812 (45.836)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][600/782]	Time 0.252s (0.273s)	Speed 253.7 samples/s	Data 0.000s (0.013s)	Loss 5873.63428 (5856.83018)	Accuracy@1 53.125 (45.799)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][700/782]	Time 0.262s (0.271s)	Speed 244.1 samples/s	Data 0.000s (0.011s)	Loss 5872.01709 (5856.91000)	Accuracy@1 32.812 (45.691)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.249	Loss 1.4807	Error@1 53.000	Error@5 100.000	Accuracy@1 47.000	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [45][0/782]	Time 11.523s (11.523s)	Speed 5.6 samples/s	Data 7.973s (7.973s)	Loss 5847.00928 (5847.00928)	Accuracy@1 40.625 (40.625)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][100/782]	Time 0.268s (0.380s)	Speed 239.0 samples/s	Data 0.000s (0.079s)	Loss 5839.81348 (5853.96758)	Accuracy@1 39.062 (45.251)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][200/782]	Time 0.259s (0.319s)	Speed 246.8 samples/s	Data 0.000s (0.040s)	Loss 5846.34814 (5855.85505)	Accuracy@1 50.000 (45.305)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][300/782]	Time 0.246s (0.302s)	Speed 260.7 samples/s	Data 0.000s (0.027s)	Loss 5850.54932 (5856.63437)	Accuracy@1 50.000 (45.520)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][400/782]	Time 0.255s (0.293s)	Speed 251.5 samples/s	Data 0.000s (0.020s)	Loss 5869.04834 (5857.04430)	Accuracy@1 46.875 (45.690)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][500/782]	Time 0.259s (0.288s)	Speed 247.2 samples/s	Data 0.000s (0.016s)	Loss 5841.14062 (5857.34788)	Accuracy@1 32.812 (45.652)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][600/782]	Time 0.245s (0.283s)	Speed 261.2 samples/s	Data 0.000s (0.013s)	Loss 5820.01465 (5857.75708)	Accuracy@1 34.375 (45.700)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][700/782]	Time 0.248s (0.281s)	Speed 257.7 samples/s	Data 0.000s (0.012s)	Loss 5861.22363 (5857.66783)	Accuracy@1 50.000 (45.625)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.217	Loss 1.4721	Error@1 53.060	Error@5 100.000	Accuracy@1 46.940	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [46][0/782]	Time 7.959s (7.959s)	Speed 8.0 samples/s	Data 7.633s (7.633s)	Loss 5843.69824 (5843.69824)	Accuracy@1 35.938 (35.938)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][100/782]	Time 0.277s (0.337s)	Speed 230.6 samples/s	Data 0.000s (0.076s)	Loss 5830.38818 (5854.76293)	Accuracy@1 40.625 (46.334)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][200/782]	Time 0.258s (0.301s)	Speed 248.3 samples/s	Data 0.000s (0.038s)	Loss 5855.93555 (5856.89280)	Accuracy@1 48.438 (45.872)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][300/782]	Time 0.266s (0.285s)	Speed 240.4 samples/s	Data 0.000s (0.025s)	Loss 5871.56396 (5857.46407)	Accuracy@1 51.562 (45.842)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][400/782]	Time 0.267s (0.281s)	Speed 239.7 samples/s	Data 0.000s (0.019s)	Loss 5846.23389 (5857.55724)	Accuracy@1 48.438 (45.550)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][500/782]	Time 0.301s (0.277s)	Speed 212.4 samples/s	Data 0.000s (0.015s)	Loss 5883.63135 (5857.50019)	Accuracy@1 56.250 (45.603)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][600/782]	Time 0.251s (0.273s)	Speed 255.0 samples/s	Data 0.000s (0.013s)	Loss 5896.18164 (5857.82179)	Accuracy@1 57.812 (45.663)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][700/782]	Time 0.287s (0.272s)	Speed 222.8 samples/s	Data 0.000s (0.011s)	Loss 5865.62061 (5857.97366)	Accuracy@1 45.312 (45.645)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.4744	Error@1 52.790	Error@5 100.000	Accuracy@1 47.210	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [47][0/782]	Time 8.233s (8.233s)	Speed 7.8 samples/s	Data 7.887s (7.887s)	Loss 5866.83789 (5866.83789)	Accuracy@1 51.562 (51.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][100/782]	Time 0.273s (0.340s)	Speed 234.3 samples/s	Data 0.000s (0.078s)	Loss 5858.39648 (5862.16900)	Accuracy@1 43.750 (46.426)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][200/782]	Time 0.234s (0.301s)	Speed 273.7 samples/s	Data 0.000s (0.039s)	Loss 5863.13086 (5860.44018)	Accuracy@1 50.000 (45.950)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][300/782]	Time 0.228s (0.287s)	Speed 280.5 samples/s	Data 0.000s (0.026s)	Loss 5873.04004 (5859.87688)	Accuracy@1 50.000 (46.127)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][400/782]	Time 0.238s (0.278s)	Speed 268.7 samples/s	Data 0.000s (0.020s)	Loss 5874.95068 (5859.37191)	Accuracy@1 50.000 (46.131)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][500/782]	Time 0.314s (0.276s)	Speed 203.7 samples/s	Data 0.000s (0.016s)	Loss 5861.54102 (5859.16439)	Accuracy@1 48.438 (46.282)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][600/782]	Time 0.258s (0.272s)	Speed 247.8 samples/s	Data 0.000s (0.013s)	Loss 5869.07715 (5858.85822)	Accuracy@1 48.438 (46.199)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][700/782]	Time 0.251s (0.271s)	Speed 255.0 samples/s	Data 0.000s (0.011s)	Loss 5886.03320 (5858.76715)	Accuracy@1 40.625 (46.086)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.213	Loss 1.4680	Error@1 52.350	Error@5 100.000	Accuracy@1 47.650	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [48][0/782]	Time 8.114s (8.114s)	Speed 7.9 samples/s	Data 7.780s (7.780s)	Loss 5841.40088 (5841.40088)	Accuracy@1 50.000 (50.000)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][100/782]	Time 0.246s (0.334s)	Speed 260.3 samples/s	Data 0.000s (0.077s)	Loss 5841.75586 (5855.06026)	Accuracy@1 45.312 (44.369)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][200/782]	Time 0.250s (0.296s)	Speed 256.3 samples/s	Data 0.000s (0.039s)	Loss 5832.33057 (5856.70167)	Accuracy@1 46.875 (45.328)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][300/782]	Time 0.261s (0.285s)	Speed 244.9 samples/s	Data 0.000s (0.026s)	Loss 5855.16650 (5856.64160)	Accuracy@1 42.188 (45.396)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][400/782]	Time 0.252s (0.279s)	Speed 253.5 samples/s	Data 0.000s (0.020s)	Loss 5848.55273 (5856.06775)	Accuracy@1 51.562 (45.453)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][500/782]	Time 0.272s (0.275s)	Speed 235.7 samples/s	Data 0.000s (0.016s)	Loss 5842.01904 (5856.47469)	Accuracy@1 57.812 (45.718)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][600/782]	Time 0.220s (0.273s)	Speed 290.5 samples/s	Data 0.000s (0.013s)	Loss 5865.21191 (5856.89610)	Accuracy@1 42.188 (45.939)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][700/782]	Time 0.239s (0.271s)	Speed 267.7 samples/s	Data 0.000s (0.011s)	Loss 5893.71777 (5857.44294)	Accuracy@1 34.375 (45.861)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.216	Loss 1.4778	Error@1 53.030	Error@5 100.000	Accuracy@1 46.970	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [49][0/782]	Time 8.109s (8.109s)	Speed 7.9 samples/s	Data 7.754s (7.754s)	Loss 5855.07275 (5855.07275)	Accuracy@1 37.500 (37.500)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][100/782]	Time 0.248s (0.338s)	Speed 258.0 samples/s	Data 0.000s (0.077s)	Loss 5883.80078 (5857.02153)	Accuracy@1 46.875 (46.983)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][200/782]	Time 0.239s (0.296s)	Speed 267.8 samples/s	Data 0.000s (0.039s)	Loss 5852.67627 (5857.59137)	Accuracy@1 42.188 (46.922)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][300/782]	Time 0.238s (0.281s)	Speed 268.9 samples/s	Data 0.000s (0.026s)	Loss 5882.20752 (5857.59638)	Accuracy@1 50.000 (45.909)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][400/782]	Time 0.266s (0.278s)	Speed 240.5 samples/s	Data 0.000s (0.019s)	Loss 5856.11328 (5857.77284)	Accuracy@1 46.875 (45.959)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][500/782]	Time 0.312s (0.272s)	Speed 205.3 samples/s	Data 0.000s (0.016s)	Loss 5853.35645 (5857.86100)	Accuracy@1 54.688 (46.014)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][600/782]	Time 0.260s (0.271s)	Speed 246.4 samples/s	Data 0.000s (0.013s)	Loss 5906.01855 (5858.37015)	Accuracy@1 39.062 (46.121)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][700/782]	Time 0.246s (0.271s)	Speed 260.4 samples/s	Data 0.000s (0.011s)	Loss 5885.06689 (5858.48951)	Accuracy@1 51.562 (46.113)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.228	Loss 1.4684	Error@1 52.410	Error@5 100.000	Accuracy@1 47.590	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+saving final model state to output/cifar10/cls_mdeq_TINY/final_state.pth.tar
+Namespace(cfg='experiments/cifar/cls_mdeq_TINY.yaml', dataDir='', lbd=0.6, logDir='', modelDir='', opts=[], percent=1.0, testModel='')
+{'AUTO_RESUME': False,
+ 'CUDNN': CfgNode({'BENCHMARK': True, 'DETERMINISTIC': False, 'ENABLED': True}),
+ 'DATASET': {'COLOR_RGB': False,
+             'DATASET': 'cifar10',
+             'DATA_FORMAT': 'jpg',
+             'EXTRA_TRAIN_SET': '',
+             'FLIP': True,
+             'HYBRID_JOINTS_TYPE': '',
+             'NUM_CLASSES': 1000,
+             'NUM_JOINTS_HALF_BODY': 8,
+             'PROB_HALF_BODY': 0.0,
+             'ROOT': 'data/cifar10/',
+             'ROT_FACTOR': 30,
+             'SCALE_FACTOR': 0.25,
+             'SELECT_DATA': False,
+             'TEST_SET': 'val',
+             'TRAIN_SET': 'train'},
+ 'DATA_DIR': '',
+ 'DEBUG': {'DEBUG': False,
+           'SAVE_BATCH_IMAGES_GT': False,
+           'SAVE_BATCH_IMAGES_PRED': False,
+           'SAVE_HEATMAPS_GT': False,
+           'SAVE_HEATMAPS_PRED': False},
+ 'GPUS': (0,),
+ 'LOG_DIR': 'log/',
+ 'LOSS': {'CLASS_BALANCE': True,
+          'OHEMKEEP': 100000,
+          'OHEMTHRES': 0.9,
+          'TOPK': 8,
+          'USE_DIFFERENT_JOINTS_WEIGHT': False,
+          'USE_OHEM': False,
+          'USE_TARGET_WEIGHT': True},
+ 'MODEL': {'B_THRES': 30,
+           'DOWNSAMPLE_TIMES': 0,
+           'DROPOUT': 0.15,
+           'EXPANSION_FACTOR': 5,
+           'EXTRA': {'FULL_STAGE': {'BLOCK': 'BASIC',
+                                    'FINAL_CHANSIZE': 128,
+                                    'FUSE_METHOD': 'SUM',
+                                    'HEAD_CHANNELS': [4, 8, 16],
+                                    'NUM_BLOCKS': [1, 1, 1],
+                                    'NUM_BRANCHES': 3,
+                                    'NUM_CHANNELS': [8, 16, 32],
+                                    'NUM_MODULES': 1}},
+           'F_THRES': 30,
+           'HEATMAP_SIZE': [64, 64],
+           'IMAGE_SIZE': [32, 32],
+           'INIT_WEIGHTS': True,
+           'NAME': 'mdeq',
+           'NUM_CLASSES': 10,
+           'NUM_GROUPS': 8,
+           'NUM_JOINTS': 17,
+           'NUM_LAYERS': 10,
+           'PRETRAINED': '',
+           'SIGMA': 2,
+           'TAG_PER_JOINT': True,
+           'TARGET_TYPE': 'gaussian',
+           'WNORM': True},
+ 'OUTPUT_DIR': 'output/',
+ 'PERCENT': 1.0,
+ 'PIN_MEMORY': True,
+ 'PRINT_FREQ': 100,
+ 'RANK': 0,
+ 'TEST': {'BASE_SIZE': 2048,
+          'BATCH_SIZE_PER_GPU': 64,
+          'BBOX_THRE': 1.0,
+          'CENTER_CROP_TEST': False,
+          'COCO_BBOX_FILE': '',
+          'FLIP_TEST': False,
+          'IMAGE_SIZE': [2048, 1024],
+          'IMAGE_THRE': 0.1,
+          'IN_VIS_THRE': 0.0,
+          'MODEL_FILE': '',
+          'MULTI_SCALE': False,
+          'NMS_THRE': 0.6,
+          'NUM_SAMPLES': 0,
+          'OKS_THRE': 0.5,
+          'POST_PROCESS': False,
+          'SCALE_LIST': [1],
+          'SHIFT_HEATMAP': False,
+          'SOFT_NMS': False,
+          'USE_GT_BBOX': False},
+ 'TRAIN': {'BASE_SIZE': 2048,
+           'BATCH_SIZE_PER_GPU': 64,
+           'BEGIN_EPOCH': 0,
+           'CHECKPOINT': '',
+           'CLIP': -1.0,
+           'DOWNSAMPLERATE': 1,
+           'END_EPOCH': 50,
+           'EXTRA_EPOCH': 0,
+           'EXTRA_LR': 0.001,
+           'FLIP': True,
+           'GAMMA1': 0.99,
+           'GAMMA2': 0.0,
+           'IGNORE_LABEL': -1,
+           'IMAGE_SIZE': [1024, 512],
+           'LR': 0.001,
+           'LR_FACTOR': 0.1,
+           'LR_SCHEDULER': 'cosine',
+           'LR_STEP': [30, 60, 90],
+           'MODEL_FILE': '',
+           'MOMENTUM': 0.9,
+           'MULTI_SCALE': True,
+           'NESTEROV': True,
+           'OPTIMIZER': 'adam',
+           'PRETRAIN_STEPS': 0,
+           'RESUME': False,
+           'SCALE_FACTOR': 16,
+           'SHUFFLE': True,
+           'WD': 0.0},
+ 'WORKERS': 2}
+=> init weights from normal distribution
+
+[36mSetting default tensor type to cuda.FloatTensor[0m
+=> creating output/cifar10/cls_mdeq_TINY
+=> creating log/cifar10/mdeq/cls_mdeq_TINY_2020-07-19-03-58
+Running from mdeq_core...
+--Training--
+x_list.shape: 3
+Finished constructing model!
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch: [0][0/782]	Time 8.784s (8.784s)	Speed 7.3 samples/s	Data 8.269s (8.269s)	Loss 9758.09277 (9758.09277)	Accuracy@1 10.938 (10.938)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][100/782]	Time 0.307s (0.346s)	Speed 208.4 samples/s	Data 0.000s (0.082s)	Loss 9764.62012 (9723.05775)	Accuracy@1 23.438 (18.301)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][200/782]	Time 0.255s (0.306s)	Speed 251.2 samples/s	Data 0.000s (0.041s)	Loss 9760.20508 (9732.04885)	Accuracy@1 26.562 (21.447)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][300/782]	Time 0.281s (0.293s)	Speed 228.0 samples/s	Data 0.000s (0.028s)	Loss 9642.01465 (9733.58316)	Accuracy@1 40.625 (23.635)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][400/782]	Time 0.259s (0.286s)	Speed 246.8 samples/s	Data 0.000s (0.021s)	Loss 9682.52637 (9730.07616)	Accuracy@1 32.812 (25.164)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][500/782]	Time 0.264s (0.281s)	Speed 242.6 samples/s	Data 0.000s (0.017s)	Loss 9812.71973 (9728.79446)	Accuracy@1 31.250 (26.525)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][600/782]	Time 0.307s (0.279s)	Speed 208.6 samples/s	Data 0.000s (0.014s)	Loss 9722.34863 (9727.35990)	Accuracy@1 34.375 (27.527)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][700/782]	Time 0.300s (0.277s)	Speed 213.1 samples/s	Data 0.000s (0.012s)	Loss 9783.82324 (9726.72460)	Accuracy@1 37.500 (28.428)	Accuracy@5 0.000 (0.000)	
+Running from mdeq_core...
+--Training--
+x_list.shape: 3
+Test: Time 0.216	Loss 2.0132	Error@1 71.990	Error@5 100.000	Accuracy@1 28.010	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [1][0/782]	Time 8.112s (8.112s)	Speed 7.9 samples/s	Data 7.779s (7.779s)	Loss 9700.09375 (9700.09375)	Accuracy@1 34.375 (34.375)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][100/782]	Time 0.247s (0.344s)	Speed 259.0 samples/s	Data 0.000s (0.077s)	Loss 9609.53320 (9715.57440)	Accuracy@1 39.062 (35.102)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][200/782]	Time 0.267s (0.304s)	Speed 239.6 samples/s	Data 0.000s (0.039s)	Loss 9742.59082 (9717.98130)	Accuracy@1 46.875 (35.347)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][300/782]	Time 0.279s (0.290s)	Speed 229.7 samples/s	Data 0.000s (0.026s)	Loss 9730.33691 (9716.63939)	Accuracy@1 37.500 (35.112)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][400/782]	Time 0.270s (0.282s)	Speed 237.0 samples/s	Data 0.000s (0.020s)	Loss 9771.17480 (9721.84972)	Accuracy@1 35.938 (35.045)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][500/782]	Time 0.263s (0.278s)	Speed 243.8 samples/s	Data 0.000s (0.016s)	Loss 9709.55273 (9722.16569)	Accuracy@1 37.500 (35.311)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][600/782]	Time 0.242s (0.276s)	Speed 264.0 samples/s	Data 0.000s (0.013s)	Loss 9658.17676 (9719.96129)	Accuracy@1 34.375 (35.436)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][700/782]	Time 0.249s (0.274s)	Speed 257.2 samples/s	Data 0.000s (0.011s)	Loss 9797.23242 (9723.75855)	Accuracy@1 46.875 (35.550)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.7644	Error@1 62.990	Error@5 100.000	Accuracy@1 37.010	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [2][0/782]	Time 8.174s (8.174s)	Speed 7.8 samples/s	Data 7.836s (7.836s)	Loss 9662.91504 (9662.91504)	Accuracy@1 34.375 (34.375)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][100/782]	Time 0.291s (0.340s)	Speed 219.9 samples/s	Data 0.000s (0.078s)	Loss 9726.36523 (9714.09913)	Accuracy@1 31.250 (37.918)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][200/782]	Time 0.278s (0.301s)	Speed 230.6 samples/s	Data 0.000s (0.039s)	Loss 9792.69141 (9716.80599)	Accuracy@1 31.250 (36.863)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][300/782]	Time 0.217s (0.288s)	Speed 295.3 samples/s	Data 0.000s (0.026s)	Loss 9744.94238 (9723.24750)	Accuracy@1 43.750 (37.074)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][400/782]	Time 0.240s (0.280s)	Speed 266.3 samples/s	Data 0.000s (0.020s)	Loss 9758.39453 (9722.00511)	Accuracy@1 45.312 (37.317)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][500/782]	Time 0.257s (0.276s)	Speed 249.2 samples/s	Data 0.000s (0.016s)	Loss 9718.20703 (9720.42525)	Accuracy@1 32.812 (37.397)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][600/782]	Time 0.270s (0.274s)	Speed 236.7 samples/s	Data 0.000s (0.013s)	Loss 9694.52246 (9721.31448)	Accuracy@1 35.938 (37.820)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][700/782]	Time 0.243s (0.271s)	Speed 262.9 samples/s	Data 0.000s (0.011s)	Loss 9619.70117 (9721.80334)	Accuracy@1 39.062 (38.082)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.219	Loss 1.6140	Error@1 58.210	Error@5 100.000	Accuracy@1 41.790	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [3][0/782]	Time 8.132s (8.132s)	Speed 7.9 samples/s	Data 7.784s (7.784s)	Loss 9730.39844 (9730.39844)	Accuracy@1 35.938 (35.938)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][100/782]	Time 0.243s (0.331s)	Speed 263.4 samples/s	Data 0.000s (0.077s)	Loss 9542.87500 (9723.38950)	Accuracy@1 34.375 (40.408)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][200/782]	Time 0.244s (0.294s)	Speed 262.5 samples/s	Data 0.000s (0.039s)	Loss 9869.79102 (9726.11955)	Accuracy@1 31.250 (40.034)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][300/782]	Time 0.246s (0.283s)	Speed 260.3 samples/s	Data 0.000s (0.026s)	Loss 9680.83398 (9721.48157)	Accuracy@1 46.875 (39.820)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][400/782]	Time 0.265s (0.278s)	Speed 241.8 samples/s	Data 0.000s (0.020s)	Loss 9590.41211 (9718.33675)	Accuracy@1 34.375 (39.935)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][500/782]	Time 0.258s (0.275s)	Speed 248.2 samples/s	Data 0.000s (0.016s)	Loss 9794.23926 (9719.39030)	Accuracy@1 39.062 (39.895)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][600/782]	Time 0.266s (0.273s)	Speed 240.6 samples/s	Data 0.000s (0.013s)	Loss 9722.35156 (9719.32730)	Accuracy@1 37.500 (39.881)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][700/782]	Time 0.253s (0.272s)	Speed 252.8 samples/s	Data 0.000s (0.011s)	Loss 9591.65723 (9721.29566)	Accuracy@1 37.500 (40.068)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.224	Loss 1.6274	Error@1 58.060	Error@5 100.000	Accuracy@1 41.940	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [4][0/782]	Time 8.240s (8.240s)	Speed 7.8 samples/s	Data 7.891s (7.891s)	Loss 9727.36719 (9727.36719)	Accuracy@1 39.062 (39.062)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][100/782]	Time 0.283s (0.337s)	Speed 226.5 samples/s	Data 0.000s (0.078s)	Loss 9822.54102 (9719.74396)	Accuracy@1 43.750 (40.811)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][200/782]	Time 0.262s (0.301s)	Speed 243.9 samples/s	Data 0.000s (0.039s)	Loss 9803.97852 (9721.25037)	Accuracy@1 46.875 (40.889)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][300/782]	Time 0.257s (0.287s)	Speed 249.5 samples/s	Data 0.000s (0.026s)	Loss 9808.12695 (9718.92907)	Accuracy@1 43.750 (41.061)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][400/782]	Time 0.266s (0.278s)	Speed 240.8 samples/s	Data 0.000s (0.020s)	Loss 9652.61426 (9718.04996)	Accuracy@1 45.312 (40.765)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][500/782]	Time 0.260s (0.275s)	Speed 246.2 samples/s	Data 0.000s (0.016s)	Loss 9692.51660 (9722.38754)	Accuracy@1 40.625 (40.759)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][600/782]	Time 0.275s (0.271s)	Speed 233.1 samples/s	Data 0.000s (0.013s)	Loss 9623.58789 (9725.13664)	Accuracy@1 42.188 (40.693)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][700/782]	Time 0.240s (0.270s)	Speed 266.9 samples/s	Data 0.000s (0.011s)	Loss 9852.22363 (9726.80839)	Accuracy@1 29.688 (40.843)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.6936	Error@1 59.410	Error@5 100.000	Accuracy@1 40.590	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [5][0/782]	Time 8.165s (8.165s)	Speed 7.8 samples/s	Data 7.839s (7.839s)	Loss 9632.80957 (9632.80957)	Accuracy@1 50.000 (50.000)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][100/782]	Time 0.270s (0.347s)	Speed 236.9 samples/s	Data 0.000s (0.078s)	Loss 9602.61621 (9730.57808)	Accuracy@1 34.375 (40.981)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][200/782]	Time 0.253s (0.305s)	Speed 252.5 samples/s	Data 0.000s (0.039s)	Loss 9681.98242 (9733.02638)	Accuracy@1 39.062 (41.542)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][300/782]	Time 0.301s (0.294s)	Speed 213.0 samples/s	Data 0.000s (0.026s)	Loss 9642.87695 (9729.27227)	Accuracy@1 43.750 (41.757)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][400/782]	Time 0.279s (0.284s)	Speed 229.0 samples/s	Data 0.000s (0.020s)	Loss 9781.82324 (9733.15853)	Accuracy@1 31.250 (41.545)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][500/782]	Time 0.308s (0.279s)	Speed 207.8 samples/s	Data 0.000s (0.016s)	Loss 9694.23535 (9733.09327)	Accuracy@1 40.625 (41.439)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][600/782]	Time 0.230s (0.276s)	Speed 278.8 samples/s	Data 0.000s (0.013s)	Loss 9713.71484 (9731.75403)	Accuracy@1 48.438 (41.527)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][700/782]	Time 0.309s (0.274s)	Speed 207.4 samples/s	Data 0.000s (0.011s)	Loss 9571.25098 (9731.56113)	Accuracy@1 48.438 (41.554)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.5279	Error@1 54.870	Error@5 100.000	Accuracy@1 45.130	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [6][0/782]	Time 7.976s (7.976s)	Speed 8.0 samples/s	Data 7.631s (7.631s)	Loss 9809.14258 (9809.14258)	Accuracy@1 39.062 (39.062)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][100/782]	Time 0.264s (0.341s)	Speed 242.0 samples/s	Data 0.000s (0.076s)	Loss 9674.41504 (9713.48969)	Accuracy@1 40.625 (42.930)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][200/782]	Time 0.249s (0.306s)	Speed 257.4 samples/s	Data 0.000s (0.038s)	Loss 9490.40332 (9723.25700)	Accuracy@1 40.625 (42.273)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][300/782]	Time 0.244s (0.292s)	Speed 262.5 samples/s	Data 0.000s (0.025s)	Loss 9722.33496 (9721.97821)	Accuracy@1 39.062 (42.499)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][400/782]	Time 0.259s (0.285s)	Speed 247.0 samples/s	Data 0.000s (0.019s)	Loss 9650.02148 (9718.72758)	Accuracy@1 42.188 (42.811)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][500/782]	Time 0.231s (0.280s)	Speed 276.9 samples/s	Data 0.000s (0.015s)	Loss 9665.00879 (9720.97131)	Accuracy@1 46.875 (42.755)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][600/782]	Time 0.231s (0.277s)	Speed 277.1 samples/s	Data 0.000s (0.013s)	Loss 9679.24219 (9718.82664)	Accuracy@1 39.062 (42.684)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][700/782]	Time 0.246s (0.273s)	Speed 260.3 samples/s	Data 0.000s (0.011s)	Loss 9765.76172 (9723.42656)	Accuracy@1 51.562 (42.789)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.231	Loss 1.5690	Error@1 56.330	Error@5 100.000	Accuracy@1 43.670	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [7][0/782]	Time 9.068s (9.068s)	Speed 7.1 samples/s	Data 7.610s (7.610s)	Loss 9870.86523 (9870.86523)	Accuracy@1 35.938 (35.938)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][100/782]	Time 0.302s (0.349s)	Speed 212.2 samples/s	Data 0.000s (0.075s)	Loss 9732.09766 (9726.00468)	Accuracy@1 50.000 (43.874)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][200/782]	Time 0.241s (0.304s)	Speed 266.0 samples/s	Data 0.000s (0.038s)	Loss 9570.80566 (9726.72918)	Accuracy@1 45.312 (43.377)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][300/782]	Time 0.242s (0.292s)	Speed 264.8 samples/s	Data 0.000s (0.025s)	Loss 9549.37207 (9722.48473)	Accuracy@1 46.875 (43.662)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][400/782]	Time 0.313s (0.282s)	Speed 204.7 samples/s	Data 0.000s (0.019s)	Loss 9890.14648 (9720.08962)	Accuracy@1 46.875 (43.360)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][500/782]	Time 0.243s (0.277s)	Speed 262.9 samples/s	Data 0.000s (0.015s)	Loss 9617.67188 (9722.99817)	Accuracy@1 40.625 (43.488)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][600/782]	Time 0.297s (0.274s)	Speed 215.3 samples/s	Data 0.000s (0.013s)	Loss 9772.33984 (9722.18907)	Accuracy@1 28.125 (43.420)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][700/782]	Time 0.246s (0.271s)	Speed 260.4 samples/s	Data 0.000s (0.011s)	Loss 9859.04102 (9723.31128)	Accuracy@1 35.938 (43.438)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.210	Loss 1.5778	Error@1 55.590	Error@5 100.000	Accuracy@1 44.410	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [8][0/782]	Time 8.020s (8.020s)	Speed 8.0 samples/s	Data 7.711s (7.711s)	Loss 9685.23145 (9685.23145)	Accuracy@1 37.500 (37.500)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][100/782]	Time 0.257s (0.338s)	Speed 248.6 samples/s	Data 0.000s (0.076s)	Loss 9766.44141 (9716.30882)	Accuracy@1 39.062 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][200/782]	Time 0.236s (0.295s)	Speed 271.4 samples/s	Data 0.000s (0.038s)	Loss 9686.14355 (9725.25968)	Accuracy@1 42.188 (44.007)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][300/782]	Time 0.236s (0.282s)	Speed 270.8 samples/s	Data 0.000s (0.026s)	Loss 9768.76562 (9729.44761)	Accuracy@1 50.000 (43.984)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][400/782]	Time 0.245s (0.276s)	Speed 261.3 samples/s	Data 0.000s (0.019s)	Loss 9585.41309 (9729.73091)	Accuracy@1 43.750 (43.980)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][500/782]	Time 0.262s (0.274s)	Speed 244.5 samples/s	Data 0.000s (0.016s)	Loss 9706.78223 (9730.12650)	Accuracy@1 45.312 (43.915)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][600/782]	Time 0.270s (0.273s)	Speed 237.3 samples/s	Data 0.000s (0.013s)	Loss 9606.18555 (9728.29851)	Accuracy@1 32.812 (44.122)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][700/782]	Time 0.288s (0.271s)	Speed 222.3 samples/s	Data 0.000s (0.011s)	Loss 9622.51270 (9727.61330)	Accuracy@1 50.000 (43.977)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.217	Loss 1.5912	Error@1 57.030	Error@5 100.000	Accuracy@1 42.970	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [9][0/782]	Time 8.251s (8.251s)	Speed 7.8 samples/s	Data 7.907s (7.907s)	Loss 9750.56055 (9750.56055)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][100/782]	Time 0.263s (0.337s)	Speed 243.3 samples/s	Data 0.000s (0.078s)	Loss 9697.35156 (9728.04253)	Accuracy@1 43.750 (44.322)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][200/782]	Time 0.305s (0.301s)	Speed 209.6 samples/s	Data 0.000s (0.039s)	Loss 9703.17383 (9729.34302)	Accuracy@1 40.625 (43.968)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][300/782]	Time 0.251s (0.287s)	Speed 254.5 samples/s	Data 0.000s (0.026s)	Loss 9701.09180 (9726.71833)	Accuracy@1 45.312 (44.477)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][400/782]	Time 0.245s (0.282s)	Speed 261.5 samples/s	Data 0.000s (0.020s)	Loss 9762.75684 (9725.16508)	Accuracy@1 31.250 (44.276)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][500/782]	Time 0.290s (0.276s)	Speed 220.6 samples/s	Data 0.000s (0.016s)	Loss 9778.30371 (9725.10895)	Accuracy@1 57.812 (44.564)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][600/782]	Time 0.248s (0.274s)	Speed 257.7 samples/s	Data 0.000s (0.013s)	Loss 9683.43848 (9725.11742)	Accuracy@1 37.500 (44.556)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][700/782]	Time 0.239s (0.271s)	Speed 268.2 samples/s	Data 0.000s (0.011s)	Loss 9777.63379 (9724.30988)	Accuracy@1 46.875 (44.626)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.210	Loss 1.4463	Error@1 52.420	Error@5 100.000	Accuracy@1 47.580	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [10][0/782]	Time 8.071s (8.071s)	Speed 7.9 samples/s	Data 7.750s (7.750s)	Loss 9830.46875 (9830.46875)	Accuracy@1 39.062 (39.062)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][100/782]	Time 0.260s (0.341s)	Speed 246.1 samples/s	Data 0.000s (0.077s)	Loss 9698.98633 (9712.51435)	Accuracy@1 40.625 (45.467)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][200/782]	Time 0.256s (0.297s)	Speed 250.3 samples/s	Data 0.000s (0.039s)	Loss 9796.87305 (9716.93107)	Accuracy@1 53.125 (44.271)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][300/782]	Time 0.248s (0.283s)	Speed 258.2 samples/s	Data 0.000s (0.026s)	Loss 9711.01953 (9717.87515)	Accuracy@1 48.438 (44.404)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][400/782]	Time 0.258s (0.276s)	Speed 248.2 samples/s	Data 0.000s (0.019s)	Loss 9568.96875 (9717.27749)	Accuracy@1 45.312 (44.412)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][500/782]	Time 0.238s (0.273s)	Speed 268.6 samples/s	Data 0.000s (0.016s)	Loss 9717.44531 (9714.55073)	Accuracy@1 42.188 (44.595)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][600/782]	Time 0.223s (0.270s)	Speed 286.9 samples/s	Data 0.000s (0.013s)	Loss 9670.44531 (9715.06137)	Accuracy@1 34.375 (44.535)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][700/782]	Time 0.243s (0.268s)	Speed 263.7 samples/s	Data 0.000s (0.011s)	Loss 9842.73145 (9718.22699)	Accuracy@1 56.250 (44.403)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.219	Loss 1.4584	Error@1 52.170	Error@5 100.000	Accuracy@1 47.830	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [11][0/782]	Time 8.319s (8.319s)	Speed 7.7 samples/s	Data 7.914s (7.914s)	Loss 9665.73340 (9665.73340)	Accuracy@1 48.438 (48.438)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][100/782]	Time 0.265s (0.342s)	Speed 241.6 samples/s	Data 0.000s (0.078s)	Loss 9834.71973 (9725.76554)	Accuracy@1 45.312 (45.050)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][200/782]	Time 0.225s (0.299s)	Speed 283.9 samples/s	Data 0.000s (0.039s)	Loss 9842.57227 (9723.30392)	Accuracy@1 48.438 (44.807)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][300/782]	Time 0.232s (0.283s)	Speed 275.6 samples/s	Data 0.000s (0.026s)	Loss 9688.11914 (9719.04548)	Accuracy@1 60.938 (44.954)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][400/782]	Time 0.234s (0.277s)	Speed 273.0 samples/s	Data 0.000s (0.020s)	Loss 9572.93945 (9720.51298)	Accuracy@1 40.625 (45.153)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][500/782]	Time 0.263s (0.273s)	Speed 243.0 samples/s	Data 0.000s (0.016s)	Loss 9583.98145 (9722.06636)	Accuracy@1 39.062 (45.135)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][600/782]	Time 0.255s (0.270s)	Speed 250.9 samples/s	Data 0.000s (0.013s)	Loss 9693.71973 (9722.50592)	Accuracy@1 40.625 (45.118)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][700/782]	Time 0.244s (0.268s)	Speed 262.4 samples/s	Data 0.000s (0.011s)	Loss 9719.29980 (9723.32804)	Accuracy@1 46.875 (45.041)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.209	Loss 1.4504	Error@1 51.120	Error@5 100.000	Accuracy@1 48.880	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [12][0/782]	Time 8.513s (8.513s)	Speed 7.5 samples/s	Data 7.855s (7.855s)	Loss 9653.26172 (9653.26172)	Accuracy@1 48.438 (48.438)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][100/782]	Time 0.267s (0.343s)	Speed 239.8 samples/s	Data 0.000s (0.078s)	Loss 9681.63965 (9721.54985)	Accuracy@1 50.000 (44.493)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][200/782]	Time 0.254s (0.302s)	Speed 251.9 samples/s	Data 0.000s (0.039s)	Loss 9891.82324 (9725.33101)	Accuracy@1 31.250 (45.297)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][300/782]	Time 0.269s (0.291s)	Speed 237.6 samples/s	Data 0.000s (0.026s)	Loss 9556.23535 (9723.21219)	Accuracy@1 46.875 (44.913)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][400/782]	Time 0.327s (0.284s)	Speed 195.9 samples/s	Data 0.000s (0.020s)	Loss 9564.54785 (9718.03831)	Accuracy@1 51.562 (45.180)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][500/782]	Time 0.261s (0.279s)	Speed 245.3 samples/s	Data 0.000s (0.016s)	Loss 9688.39648 (9722.00841)	Accuracy@1 50.000 (45.306)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][600/782]	Time 0.247s (0.275s)	Speed 259.3 samples/s	Data 0.000s (0.013s)	Loss 9687.50293 (9720.83260)	Accuracy@1 45.312 (45.406)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][700/782]	Time 0.247s (0.273s)	Speed 259.5 samples/s	Data 0.000s (0.011s)	Loss 9707.32520 (9723.97530)	Accuracy@1 50.000 (45.388)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.212	Loss 1.5503	Error@1 55.050	Error@5 100.000	Accuracy@1 44.950	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [13][0/782]	Time 8.067s (8.067s)	Speed 7.9 samples/s	Data 7.735s (7.735s)	Loss 9793.69336 (9793.69336)	Accuracy@1 37.500 (37.500)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][100/782]	Time 0.262s (0.336s)	Speed 244.5 samples/s	Data 0.000s (0.077s)	Loss 9972.98145 (9736.21908)	Accuracy@1 50.000 (44.307)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][200/782]	Time 0.269s (0.296s)	Speed 238.2 samples/s	Data 0.000s (0.039s)	Loss 9771.12891 (9725.16333)	Accuracy@1 43.750 (45.289)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][300/782]	Time 0.247s (0.283s)	Speed 258.9 samples/s	Data 0.000s (0.026s)	Loss 9690.28223 (9723.09651)	Accuracy@1 45.312 (45.453)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][400/782]	Time 0.267s (0.278s)	Speed 239.4 samples/s	Data 0.000s (0.019s)	Loss 9671.70703 (9724.77920)	Accuracy@1 57.812 (45.344)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][500/782]	Time 0.240s (0.275s)	Speed 267.0 samples/s	Data 0.000s (0.016s)	Loss 9723.45996 (9724.72539)	Accuracy@1 43.750 (45.419)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][600/782]	Time 0.233s (0.274s)	Speed 274.3 samples/s	Data 0.000s (0.013s)	Loss 9786.05273 (9723.77264)	Accuracy@1 37.500 (45.515)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][700/782]	Time 0.317s (0.272s)	Speed 202.2 samples/s	Data 0.000s (0.011s)	Loss 9901.13672 (9726.42895)	Accuracy@1 48.438 (45.625)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.4486	Error@1 51.790	Error@5 100.000	Accuracy@1 48.210	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [14][0/782]	Time 7.919s (7.919s)	Speed 8.1 samples/s	Data 7.570s (7.570s)	Loss 9667.36328 (9667.36328)	Accuracy@1 56.250 (56.250)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][100/782]	Time 0.223s (0.332s)	Speed 286.5 samples/s	Data 0.000s (0.075s)	Loss 9546.50391 (9717.45954)	Accuracy@1 45.312 (46.024)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][200/782]	Time 0.283s (0.297s)	Speed 226.5 samples/s	Data 0.000s (0.038s)	Loss 9780.63281 (9723.50784)	Accuracy@1 42.188 (46.175)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][300/782]	Time 0.245s (0.283s)	Speed 261.0 samples/s	Data 0.000s (0.025s)	Loss 9811.46484 (9719.73346)	Accuracy@1 48.438 (46.200)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][400/782]	Time 0.251s (0.274s)	Speed 254.7 samples/s	Data 0.000s (0.019s)	Loss 9703.12988 (9720.41153)	Accuracy@1 39.062 (46.123)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][500/782]	Time 0.256s (0.272s)	Speed 250.0 samples/s	Data 0.000s (0.015s)	Loss 9769.42188 (9721.65762)	Accuracy@1 53.125 (46.086)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][600/782]	Time 0.267s (0.271s)	Speed 239.4 samples/s	Data 0.000s (0.013s)	Loss 9611.11328 (9725.17505)	Accuracy@1 51.562 (46.092)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][700/782]	Time 0.248s (0.269s)	Speed 257.9 samples/s	Data 0.000s (0.011s)	Loss 9619.40820 (9722.73837)	Accuracy@1 46.875 (45.983)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.219	Loss 1.4323	Error@1 51.680	Error@5 100.000	Accuracy@1 48.320	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [15][0/782]	Time 8.043s (8.043s)	Speed 8.0 samples/s	Data 7.720s (7.720s)	Loss 9772.66699 (9772.66699)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][100/782]	Time 0.225s (0.339s)	Speed 284.1 samples/s	Data 0.000s (0.077s)	Loss 9942.58398 (9713.31139)	Accuracy@1 45.312 (46.256)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][200/782]	Time 0.228s (0.298s)	Speed 280.7 samples/s	Data 0.000s (0.039s)	Loss 9632.95898 (9715.48795)	Accuracy@1 43.750 (46.331)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][300/782]	Time 0.279s (0.283s)	Speed 229.2 samples/s	Data 0.000s (0.026s)	Loss 9655.47168 (9713.77021)	Accuracy@1 40.625 (46.366)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][400/782]	Time 0.252s (0.277s)	Speed 253.8 samples/s	Data 0.000s (0.019s)	Loss 9826.35840 (9717.05863)	Accuracy@1 42.188 (46.520)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][500/782]	Time 0.251s (0.273s)	Speed 255.2 samples/s	Data 0.000s (0.016s)	Loss 9708.15234 (9713.87300)	Accuracy@1 53.125 (46.519)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][600/782]	Time 0.303s (0.272s)	Speed 210.9 samples/s	Data 0.000s (0.013s)	Loss 9725.00098 (9714.05122)	Accuracy@1 40.625 (46.646)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][700/782]	Time 0.231s (0.270s)	Speed 277.6 samples/s	Data 0.000s (0.011s)	Loss 9572.77441 (9715.41120)	Accuracy@1 50.000 (46.645)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.225	Loss 1.4082	Error@1 50.470	Error@5 100.000	Accuracy@1 49.530	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [16][0/782]	Time 8.065s (8.065s)	Speed 7.9 samples/s	Data 7.734s (7.734s)	Loss 9707.68848 (9707.68848)	Accuracy@1 54.688 (54.688)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][100/782]	Time 0.243s (0.345s)	Speed 263.9 samples/s	Data 0.000s (0.077s)	Loss 9989.09473 (9726.06683)	Accuracy@1 46.875 (48.035)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][200/782]	Time 0.263s (0.303s)	Speed 243.4 samples/s	Data 0.000s (0.039s)	Loss 9707.86426 (9729.65073)	Accuracy@1 45.312 (47.163)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][300/782]	Time 0.242s (0.289s)	Speed 264.0 samples/s	Data 0.000s (0.026s)	Loss 9733.04199 (9729.05172)	Accuracy@1 46.875 (46.994)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][400/782]	Time 0.246s (0.281s)	Speed 260.3 samples/s	Data 0.000s (0.019s)	Loss 9684.03613 (9725.40065)	Accuracy@1 54.688 (46.844)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][500/782]	Time 0.250s (0.277s)	Speed 256.0 samples/s	Data 0.000s (0.016s)	Loss 9594.46094 (9722.91839)	Accuracy@1 42.188 (46.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][600/782]	Time 0.267s (0.274s)	Speed 239.5 samples/s	Data 0.000s (0.013s)	Loss 9731.78125 (9722.82900)	Accuracy@1 37.500 (46.589)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][700/782]	Time 0.307s (0.272s)	Speed 208.4 samples/s	Data 0.000s (0.011s)	Loss 9949.77930 (9726.73853)	Accuracy@1 53.125 (46.701)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.239	Loss 1.4919	Error@1 52.080	Error@5 100.000	Accuracy@1 47.920	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [17][0/782]	Time 7.966s (7.966s)	Speed 8.0 samples/s	Data 7.626s (7.626s)	Loss 9680.37988 (9680.37988)	Accuracy@1 51.562 (51.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][100/782]	Time 0.260s (0.344s)	Speed 246.4 samples/s	Data 0.000s (0.076s)	Loss 9703.47852 (9737.12140)	Accuracy@1 45.312 (47.494)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][200/782]	Time 0.311s (0.300s)	Speed 205.5 samples/s	Data 0.000s (0.038s)	Loss 9566.77148 (9725.99927)	Accuracy@1 46.875 (47.108)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][300/782]	Time 0.249s (0.287s)	Speed 257.2 samples/s	Data 0.000s (0.025s)	Loss 9727.37305 (9728.69975)	Accuracy@1 43.750 (47.129)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][400/782]	Time 0.260s (0.281s)	Speed 246.4 samples/s	Data 0.000s (0.019s)	Loss 9687.84961 (9730.41675)	Accuracy@1 40.625 (47.144)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][500/782]	Time 0.271s (0.278s)	Speed 236.6 samples/s	Data 0.000s (0.015s)	Loss 9799.07324 (9727.20243)	Accuracy@1 43.750 (47.096)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][600/782]	Time 0.248s (0.275s)	Speed 258.0 samples/s	Data 0.000s (0.013s)	Loss 9667.33789 (9724.48240)	Accuracy@1 39.062 (47.138)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][700/782]	Time 0.244s (0.274s)	Speed 262.0 samples/s	Data 0.000s (0.011s)	Loss 9737.69824 (9724.76544)	Accuracy@1 51.562 (47.060)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.216	Loss 1.4026	Error@1 49.800	Error@5 100.000	Accuracy@1 50.200	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [18][0/782]	Time 8.303s (8.303s)	Speed 7.7 samples/s	Data 7.971s (7.971s)	Loss 9701.44434 (9701.44434)	Accuracy@1 45.312 (45.312)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][100/782]	Time 0.260s (0.344s)	Speed 245.9 samples/s	Data 0.000s (0.079s)	Loss 9460.05859 (9704.07274)	Accuracy@1 39.062 (47.014)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][200/782]	Time 0.224s (0.302s)	Speed 286.1 samples/s	Data 0.000s (0.040s)	Loss 9959.66211 (9712.19383)	Accuracy@1 45.312 (47.318)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][300/782]	Time 0.311s (0.290s)	Speed 206.0 samples/s	Data 0.000s (0.027s)	Loss 9695.53418 (9717.68421)	Accuracy@1 46.875 (47.732)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][400/782]	Time 0.257s (0.282s)	Speed 249.0 samples/s	Data 0.000s (0.020s)	Loss 9727.42090 (9719.24068)	Accuracy@1 48.438 (47.643)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][500/782]	Time 0.282s (0.277s)	Speed 227.0 samples/s	Data 0.000s (0.016s)	Loss 9699.03516 (9714.92398)	Accuracy@1 53.125 (47.599)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][600/782]	Time 0.256s (0.275s)	Speed 250.3 samples/s	Data 0.000s (0.013s)	Loss 9957.87695 (9716.51875)	Accuracy@1 39.062 (47.476)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][700/782]	Time 0.262s (0.273s)	Speed 243.9 samples/s	Data 0.000s (0.011s)	Loss 9702.65723 (9717.56545)	Accuracy@1 37.500 (47.588)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.224	Loss 1.4671	Error@1 51.510	Error@5 100.000	Accuracy@1 48.490	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [19][0/782]	Time 7.788s (7.788s)	Speed 8.2 samples/s	Data 7.457s (7.457s)	Loss 9667.99707 (9667.99707)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][100/782]	Time 0.257s (0.344s)	Speed 249.5 samples/s	Data 0.000s (0.074s)	Loss 9662.55469 (9720.37559)	Accuracy@1 56.250 (47.416)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][200/782]	Time 0.309s (0.295s)	Speed 207.2 samples/s	Data 0.000s (0.037s)	Loss 9711.65430 (9712.62664)	Accuracy@1 48.438 (47.551)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][300/782]	Time 0.260s (0.283s)	Speed 245.8 samples/s	Data 0.000s (0.025s)	Loss 9663.02051 (9719.97451)	Accuracy@1 46.875 (47.763)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][400/782]	Time 0.257s (0.276s)	Speed 249.1 samples/s	Data 0.000s (0.019s)	Loss 9688.10254 (9722.58318)	Accuracy@1 39.062 (47.596)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][500/782]	Time 0.244s (0.273s)	Speed 262.2 samples/s	Data 0.000s (0.015s)	Loss 9863.21777 (9723.06530)	Accuracy@1 59.375 (47.745)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][600/782]	Time 0.321s (0.271s)	Speed 199.2 samples/s	Data 0.000s (0.013s)	Loss 9790.49414 (9722.45892)	Accuracy@1 51.562 (47.863)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][700/782]	Time 0.246s (0.270s)	Speed 259.7 samples/s	Data 0.000s (0.011s)	Loss 9686.07129 (9722.15981)	Accuracy@1 48.438 (47.882)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.4728	Error@1 51.810	Error@5 100.000	Accuracy@1 48.190	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [20][0/782]	Time 8.472s (8.472s)	Speed 7.6 samples/s	Data 8.140s (8.140s)	Loss 9784.38086 (9784.38086)	Accuracy@1 46.875 (46.875)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][100/782]	Time 0.244s (0.351s)	Speed 262.6 samples/s	Data 0.000s (0.081s)	Loss 9791.52344 (9742.81583)	Accuracy@1 62.500 (48.407)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][200/782]	Time 0.229s (0.306s)	Speed 279.6 samples/s	Data 0.000s (0.041s)	Loss 9607.61816 (9735.13180)	Accuracy@1 51.562 (48.368)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][300/782]	Time 0.317s (0.290s)	Speed 201.8 samples/s	Data 0.000s (0.027s)	Loss 9728.78027 (9729.13720)	Accuracy@1 46.875 (48.033)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][400/782]	Time 0.233s (0.282s)	Speed 275.1 samples/s	Data 0.000s (0.020s)	Loss 9775.67676 (9725.11007)	Accuracy@1 53.125 (47.760)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][500/782]	Time 0.298s (0.279s)	Speed 214.8 samples/s	Data 0.000s (0.016s)	Loss 9827.63086 (9723.54687)	Accuracy@1 57.812 (47.895)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][600/782]	Time 0.272s (0.275s)	Speed 235.6 samples/s	Data 0.000s (0.014s)	Loss 9661.79980 (9723.36049)	Accuracy@1 43.750 (47.837)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][700/782]	Time 0.276s (0.274s)	Speed 231.7 samples/s	Data 0.000s (0.012s)	Loss 9692.40625 (9722.60997)	Accuracy@1 56.250 (47.804)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.211	Loss 1.4136	Error@1 50.050	Error@5 100.000	Accuracy@1 49.950	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [21][0/782]	Time 8.376s (8.376s)	Speed 7.6 samples/s	Data 8.023s (8.023s)	Loss 9765.14160 (9765.14160)	Accuracy@1 46.875 (46.875)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][100/782]	Time 0.259s (0.338s)	Speed 246.7 samples/s	Data 0.000s (0.080s)	Loss 9886.82031 (9731.29704)	Accuracy@1 59.375 (47.587)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][200/782]	Time 0.249s (0.304s)	Speed 256.6 samples/s	Data 0.000s (0.040s)	Loss 9761.53418 (9728.14237)	Accuracy@1 45.312 (47.373)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][300/782]	Time 0.304s (0.290s)	Speed 210.8 samples/s	Data 0.000s (0.027s)	Loss 9771.68652 (9722.81434)	Accuracy@1 42.188 (47.628)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][400/782]	Time 0.268s (0.282s)	Speed 238.6 samples/s	Data 0.000s (0.020s)	Loss 9681.65430 (9722.58672)	Accuracy@1 48.438 (47.767)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][500/782]	Time 0.259s (0.279s)	Speed 246.9 samples/s	Data 0.000s (0.016s)	Loss 9684.75488 (9718.67973)	Accuracy@1 50.000 (47.992)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][600/782]	Time 0.214s (0.275s)	Speed 298.6 samples/s	Data 0.000s (0.013s)	Loss 9778.61328 (9718.53968)	Accuracy@1 43.750 (48.152)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][700/782]	Time 0.224s (0.275s)	Speed 285.7 samples/s	Data 0.000s (0.012s)	Loss 9634.34180 (9719.30127)	Accuracy@1 42.188 (48.067)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.221	Loss 1.3929	Error@1 49.120	Error@5 100.000	Accuracy@1 50.880	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [22][0/782]	Time 7.967s (7.967s)	Speed 8.0 samples/s	Data 7.632s (7.632s)	Loss 9800.93750 (9800.93750)	Accuracy@1 51.562 (51.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][100/782]	Time 0.272s (0.348s)	Speed 234.9 samples/s	Data 0.000s (0.076s)	Loss 9675.06152 (9741.34714)	Accuracy@1 53.125 (48.097)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][200/782]	Time 0.239s (0.309s)	Speed 268.0 samples/s	Data 0.000s (0.038s)	Loss 9773.82910 (9733.91630)	Accuracy@1 50.000 (48.290)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][300/782]	Time 0.231s (0.294s)	Speed 276.8 samples/s	Data 0.000s (0.025s)	Loss 9844.02539 (9730.95290)	Accuracy@1 45.312 (48.157)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][400/782]	Time 0.251s (0.285s)	Speed 254.7 samples/s	Data 0.000s (0.019s)	Loss 9556.63770 (9728.43742)	Accuracy@1 42.188 (48.091)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][500/782]	Time 0.229s (0.280s)	Speed 279.2 samples/s	Data 0.000s (0.015s)	Loss 9695.70215 (9727.04118)	Accuracy@1 59.375 (48.278)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][600/782]	Time 0.244s (0.278s)	Speed 261.9 samples/s	Data 0.000s (0.013s)	Loss 9777.43262 (9722.95026)	Accuracy@1 45.312 (48.261)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][700/782]	Time 0.310s (0.275s)	Speed 206.4 samples/s	Data 0.000s (0.011s)	Loss 9807.27246 (9723.09201)	Accuracy@1 42.188 (48.337)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.212	Loss 1.4372	Error@1 51.520	Error@5 100.000	Accuracy@1 48.480	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [23][0/782]	Time 8.118s (8.118s)	Speed 7.9 samples/s	Data 7.762s (7.762s)	Loss 9728.16504 (9728.16504)	Accuracy@1 46.875 (46.875)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][100/782]	Time 0.272s (0.340s)	Speed 235.4 samples/s	Data 0.000s (0.077s)	Loss 9697.98730 (9721.62047)	Accuracy@1 48.438 (48.097)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][200/782]	Time 0.248s (0.303s)	Speed 258.2 samples/s	Data 0.000s (0.039s)	Loss 9784.89746 (9717.15586)	Accuracy@1 40.625 (48.570)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][300/782]	Time 0.268s (0.291s)	Speed 238.6 samples/s	Data 0.000s (0.026s)	Loss 9691.89648 (9718.98890)	Accuracy@1 40.625 (47.768)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][400/782]	Time 0.236s (0.285s)	Speed 271.4 samples/s	Data 0.000s (0.019s)	Loss 9661.60645 (9715.73612)	Accuracy@1 50.000 (47.666)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][500/782]	Time 0.223s (0.281s)	Speed 286.6 samples/s	Data 0.000s (0.016s)	Loss 9664.48730 (9714.57577)	Accuracy@1 43.750 (47.758)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][600/782]	Time 0.285s (0.279s)	Speed 224.7 samples/s	Data 0.000s (0.013s)	Loss 9706.93066 (9716.72529)	Accuracy@1 48.438 (47.902)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][700/782]	Time 0.305s (0.275s)	Speed 209.9 samples/s	Data 0.000s (0.011s)	Loss 9678.99414 (9715.04478)	Accuracy@1 40.625 (47.909)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.234	Loss 1.3753	Error@1 49.630	Error@5 100.000	Accuracy@1 50.370	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [24][0/782]	Time 8.875s (8.875s)	Speed 7.2 samples/s	Data 8.167s (8.167s)	Loss 9691.45703 (9691.45703)	Accuracy@1 50.000 (50.000)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][100/782]	Time 0.267s (0.350s)	Speed 240.0 samples/s	Data 0.000s (0.081s)	Loss 9728.82812 (9724.08727)	Accuracy@1 48.438 (47.107)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][200/782]	Time 0.233s (0.307s)	Speed 274.4 samples/s	Data 0.000s (0.041s)	Loss 9796.67480 (9727.19211)	Accuracy@1 46.875 (47.901)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][300/782]	Time 0.315s (0.297s)	Speed 203.2 samples/s	Data 0.000s (0.027s)	Loss 9609.40234 (9722.33798)	Accuracy@1 46.875 (47.934)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][400/782]	Time 0.258s (0.288s)	Speed 248.0 samples/s	Data 0.000s (0.020s)	Loss 9770.42383 (9726.70468)	Accuracy@1 39.062 (47.904)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][500/782]	Time 0.232s (0.283s)	Speed 275.7 samples/s	Data 0.000s (0.016s)	Loss 9614.77637 (9723.90934)	Accuracy@1 51.562 (48.135)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][600/782]	Time 0.260s (0.280s)	Speed 246.2 samples/s	Data 0.000s (0.014s)	Loss 9680.63770 (9722.69210)	Accuracy@1 57.812 (48.201)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][700/782]	Time 0.243s (0.278s)	Speed 263.6 samples/s	Data 0.000s (0.012s)	Loss 9871.31934 (9724.66478)	Accuracy@1 46.875 (48.270)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.216	Loss 1.4181	Error@1 49.910	Error@5 100.000	Accuracy@1 50.090	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [25][0/782]	Time 8.461s (8.461s)	Speed 7.6 samples/s	Data 8.142s (8.142s)	Loss 9700.89844 (9700.89844)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][100/782]	Time 0.295s (0.348s)	Speed 217.0 samples/s	Data 0.000s (0.081s)	Loss 9946.41992 (9733.01792)	Accuracy@1 53.125 (48.639)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][200/782]	Time 0.321s (0.308s)	Speed 199.1 samples/s	Data 0.000s (0.041s)	Loss 9757.51953 (9727.92069)	Accuracy@1 64.062 (47.987)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][300/782]	Time 0.319s (0.290s)	Speed 200.3 samples/s	Data 0.000s (0.027s)	Loss 9678.49902 (9724.26915)	Accuracy@1 48.438 (48.027)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][400/782]	Time 0.293s (0.284s)	Speed 218.6 samples/s	Data 0.000s (0.020s)	Loss 9713.88672 (9718.59391)	Accuracy@1 50.000 (48.067)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][500/782]	Time 0.266s (0.281s)	Speed 240.4 samples/s	Data 0.000s (0.016s)	Loss 9711.51758 (9719.99559)	Accuracy@1 50.000 (48.257)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][600/782]	Time 0.304s (0.278s)	Speed 210.2 samples/s	Data 0.000s (0.014s)	Loss 9723.13281 (9721.52574)	Accuracy@1 43.750 (48.430)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][700/782]	Time 0.255s (0.275s)	Speed 251.5 samples/s	Data 0.000s (0.012s)	Loss 9696.43652 (9722.22525)	Accuracy@1 48.438 (48.482)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.213	Loss 1.3831	Error@1 48.540	Error@5 100.000	Accuracy@1 51.460	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [26][0/782]	Time 8.118s (8.118s)	Speed 7.9 samples/s	Data 7.787s (7.787s)	Loss 9964.54004 (9964.54004)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][100/782]	Time 0.285s (0.342s)	Speed 224.8 samples/s	Data 0.000s (0.077s)	Loss 9670.16699 (9731.49808)	Accuracy@1 45.312 (48.670)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][200/782]	Time 0.227s (0.300s)	Speed 282.4 samples/s	Data 0.000s (0.039s)	Loss 9563.80371 (9725.91748)	Accuracy@1 42.188 (48.640)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][300/782]	Time 0.258s (0.289s)	Speed 247.8 samples/s	Data 0.000s (0.026s)	Loss 9788.33887 (9719.33891)	Accuracy@1 56.250 (48.946)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][400/782]	Time 0.279s (0.281s)	Speed 229.3 samples/s	Data 0.000s (0.020s)	Loss 9702.18750 (9719.06533)	Accuracy@1 56.250 (48.753)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][500/782]	Time 0.241s (0.274s)	Speed 265.1 samples/s	Data 0.000s (0.016s)	Loss 9648.69629 (9721.84946)	Accuracy@1 46.875 (48.796)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][600/782]	Time 0.236s (0.275s)	Speed 270.8 samples/s	Data 0.000s (0.013s)	Loss 9707.47168 (9724.79244)	Accuracy@1 46.875 (48.690)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][700/782]	Time 0.249s (0.273s)	Speed 257.1 samples/s	Data 0.000s (0.011s)	Loss 9768.38770 (9722.42327)	Accuracy@1 54.688 (48.611)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.233	Loss 1.3382	Error@1 48.020	Error@5 100.000	Accuracy@1 51.980	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [27][0/782]	Time 8.504s (8.504s)	Speed 7.5 samples/s	Data 7.698s (7.698s)	Loss 9851.64746 (9851.64746)	Accuracy@1 39.062 (39.062)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][100/782]	Time 0.255s (0.349s)	Speed 251.1 samples/s	Data 0.000s (0.076s)	Loss 9787.26172 (9736.69209)	Accuracy@1 40.625 (48.700)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][200/782]	Time 0.287s (0.308s)	Speed 222.7 samples/s	Data 0.000s (0.038s)	Loss 9607.08887 (9724.48357)	Accuracy@1 48.438 (49.215)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][300/782]	Time 0.269s (0.293s)	Speed 237.6 samples/s	Data 0.000s (0.026s)	Loss 9692.27734 (9727.40510)	Accuracy@1 43.750 (49.289)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][400/782]	Time 0.259s (0.285s)	Speed 247.5 samples/s	Data 0.000s (0.019s)	Loss 9694.66309 (9728.83719)	Accuracy@1 56.250 (49.018)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][500/782]	Time 0.252s (0.279s)	Speed 254.0 samples/s	Data 0.000s (0.015s)	Loss 9575.41992 (9723.99593)	Accuracy@1 51.562 (49.105)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][600/782]	Time 0.276s (0.276s)	Speed 232.2 samples/s	Data 0.000s (0.013s)	Loss 9907.53809 (9724.71926)	Accuracy@1 54.688 (49.139)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][700/782]	Time 0.263s (0.273s)	Speed 243.6 samples/s	Data 0.000s (0.011s)	Loss 9725.98242 (9724.81771)	Accuracy@1 45.312 (49.182)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.228	Loss 1.3651	Error@1 48.310	Error@5 100.000	Accuracy@1 51.690	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [28][0/782]	Time 7.994s (7.994s)	Speed 8.0 samples/s	Data 7.655s (7.655s)	Loss 9706.90137 (9706.90137)	Accuracy@1 54.688 (54.688)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][100/782]	Time 0.252s (0.338s)	Speed 254.1 samples/s	Data 0.000s (0.076s)	Loss 9798.45801 (9718.29240)	Accuracy@1 51.562 (48.082)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][200/782]	Time 0.257s (0.303s)	Speed 249.4 samples/s	Data 0.000s (0.038s)	Loss 9841.10059 (9726.37472)	Accuracy@1 46.875 (48.640)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][300/782]	Time 0.243s (0.289s)	Speed 263.3 samples/s	Data 0.000s (0.026s)	Loss 9812.60156 (9728.14634)	Accuracy@1 54.688 (49.086)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][400/782]	Time 0.261s (0.283s)	Speed 245.3 samples/s	Data 0.000s (0.019s)	Loss 9667.83203 (9729.20023)	Accuracy@1 45.312 (49.096)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][500/782]	Time 0.276s (0.278s)	Speed 231.8 samples/s	Data 0.000s (0.015s)	Loss 9694.13770 (9729.90717)	Accuracy@1 57.812 (49.055)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][600/782]	Time 0.259s (0.275s)	Speed 246.8 samples/s	Data 0.000s (0.013s)	Loss 9635.42969 (9728.02398)	Accuracy@1 50.000 (49.111)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][700/782]	Time 0.231s (0.274s)	Speed 277.1 samples/s	Data 0.000s (0.011s)	Loss 9595.10547 (9727.02416)	Accuracy@1 50.000 (49.247)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.248	Loss 1.3498	Error@1 47.950	Error@5 100.000	Accuracy@1 52.050	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [29][0/782]	Time 8.451s (8.451s)	Speed 7.6 samples/s	Data 8.102s (8.102s)	Loss 9941.76465 (9941.76465)	Accuracy@1 46.875 (46.875)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][100/782]	Time 0.240s (0.346s)	Speed 267.2 samples/s	Data 0.000s (0.080s)	Loss 9631.02051 (9725.91208)	Accuracy@1 43.750 (49.551)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][200/782]	Time 0.241s (0.303s)	Speed 265.5 samples/s	Data 0.000s (0.040s)	Loss 9575.17969 (9722.41690)	Accuracy@1 53.125 (49.705)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][300/782]	Time 0.279s (0.289s)	Speed 229.6 samples/s	Data 0.000s (0.027s)	Loss 9656.74512 (9720.45498)	Accuracy@1 42.188 (49.481)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][400/782]	Time 0.255s (0.280s)	Speed 251.3 samples/s	Data 0.000s (0.020s)	Loss 9709.09570 (9719.09967)	Accuracy@1 57.812 (49.451)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][500/782]	Time 0.256s (0.276s)	Speed 250.0 samples/s	Data 0.000s (0.016s)	Loss 9648.45020 (9717.51766)	Accuracy@1 56.250 (49.432)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][600/782]	Time 0.315s (0.273s)	Speed 203.1 samples/s	Data 0.000s (0.014s)	Loss 9688.93457 (9718.97841)	Accuracy@1 48.438 (49.381)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][700/782]	Time 0.259s (0.272s)	Speed 247.0 samples/s	Data 0.000s (0.012s)	Loss 9785.70898 (9719.38408)	Accuracy@1 50.000 (49.180)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.212	Loss 1.3267	Error@1 47.310	Error@5 100.000	Accuracy@1 52.690	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [30][0/782]	Time 7.986s (7.986s)	Speed 8.0 samples/s	Data 7.653s (7.653s)	Loss 9875.87891 (9875.87891)	Accuracy@1 56.250 (56.250)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][100/782]	Time 0.236s (0.337s)	Speed 271.3 samples/s	Data 0.000s (0.076s)	Loss 9670.13281 (9745.68319)	Accuracy@1 42.188 (49.799)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][200/782]	Time 0.245s (0.300s)	Speed 261.6 samples/s	Data 0.000s (0.038s)	Loss 9583.14941 (9728.89093)	Accuracy@1 45.312 (49.464)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][300/782]	Time 0.241s (0.285s)	Speed 265.7 samples/s	Data 0.000s (0.026s)	Loss 9645.24805 (9728.52192)	Accuracy@1 46.875 (49.315)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][400/782]	Time 0.252s (0.280s)	Speed 254.2 samples/s	Data 0.000s (0.019s)	Loss 9836.01270 (9729.64116)	Accuracy@1 54.688 (49.240)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][500/782]	Time 0.303s (0.277s)	Speed 211.6 samples/s	Data 0.000s (0.015s)	Loss 9596.31738 (9729.00325)	Accuracy@1 59.375 (49.298)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][600/782]	Time 0.268s (0.275s)	Speed 238.8 samples/s	Data 0.000s (0.013s)	Loss 9821.68750 (9728.29148)	Accuracy@1 39.062 (49.431)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][700/782]	Time 0.240s (0.274s)	Speed 266.5 samples/s	Data 0.000s (0.011s)	Loss 9621.42383 (9727.08074)	Accuracy@1 50.000 (49.530)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.213	Loss 1.3558	Error@1 48.450	Error@5 100.000	Accuracy@1 51.550	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [31][0/782]	Time 8.199s (8.199s)	Speed 7.8 samples/s	Data 7.846s (7.846s)	Loss 9564.81152 (9564.81152)	Accuracy@1 53.125 (53.125)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][100/782]	Time 0.252s (0.341s)	Speed 254.0 samples/s	Data 0.000s (0.078s)	Loss 9673.79199 (9717.21423)	Accuracy@1 46.875 (49.783)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][200/782]	Time 0.234s (0.297s)	Speed 273.8 samples/s	Data 0.000s (0.039s)	Loss 9819.94238 (9711.03195)	Accuracy@1 54.688 (49.697)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][300/782]	Time 0.297s (0.288s)	Speed 215.2 samples/s	Data 0.000s (0.026s)	Loss 9742.68750 (9713.65943)	Accuracy@1 40.625 (49.465)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][400/782]	Time 0.314s (0.284s)	Speed 203.6 samples/s	Data 0.000s (0.020s)	Loss 9809.31250 (9710.41556)	Accuracy@1 53.125 (49.392)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][500/782]	Time 0.253s (0.279s)	Speed 253.1 samples/s	Data 0.000s (0.016s)	Loss 9783.92090 (9712.33416)	Accuracy@1 54.688 (49.520)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][600/782]	Time 0.272s (0.277s)	Speed 235.4 samples/s	Data 0.000s (0.013s)	Loss 9749.05078 (9717.22279)	Accuracy@1 62.500 (49.412)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][700/782]	Time 0.252s (0.275s)	Speed 254.4 samples/s	Data 0.000s (0.011s)	Loss 9641.85645 (9718.16202)	Accuracy@1 42.188 (49.418)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.218	Loss 1.3352	Error@1 47.700	Error@5 100.000	Accuracy@1 52.300	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [32][0/782]	Time 8.115s (8.115s)	Speed 7.9 samples/s	Data 7.771s (7.771s)	Loss 9657.23633 (9657.23633)	Accuracy@1 45.312 (45.312)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][100/782]	Time 0.286s (0.343s)	Speed 223.7 samples/s	Data 0.000s (0.077s)	Loss 9771.97266 (9722.25847)	Accuracy@1 54.688 (49.814)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][200/782]	Time 0.258s (0.303s)	Speed 248.2 samples/s	Data 0.000s (0.039s)	Loss 9598.97266 (9717.01324)	Accuracy@1 45.312 (49.674)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][300/782]	Time 0.229s (0.289s)	Speed 279.4 samples/s	Data 0.000s (0.026s)	Loss 9607.45020 (9723.92130)	Accuracy@1 51.562 (49.683)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][400/782]	Time 0.259s (0.283s)	Speed 247.6 samples/s	Data 0.000s (0.020s)	Loss 9732.89746 (9720.31397)	Accuracy@1 51.562 (49.377)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][500/782]	Time 0.257s (0.279s)	Speed 248.7 samples/s	Data 0.000s (0.016s)	Loss 9760.53223 (9720.30400)	Accuracy@1 56.250 (49.542)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][600/782]	Time 0.301s (0.277s)	Speed 212.9 samples/s	Data 0.000s (0.013s)	Loss 9534.03125 (9721.54919)	Accuracy@1 57.812 (49.568)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][700/782]	Time 0.269s (0.275s)	Speed 238.3 samples/s	Data 0.000s (0.011s)	Loss 9571.65430 (9719.83502)	Accuracy@1 53.125 (49.501)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.217	Loss 1.3252	Error@1 47.010	Error@5 100.000	Accuracy@1 52.990	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [33][0/782]	Time 8.106s (8.106s)	Speed 7.9 samples/s	Data 7.758s (7.758s)	Loss 9772.10938 (9772.10938)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [33][100/782]	Time 0.261s (0.346s)	Speed 245.3 samples/s	Data 0.000s (0.077s)	Loss 9766.85254 (9743.49373)	Accuracy@1 50.000 (50.356)	Accuracy@5 0.000 (0.000)	
+Epoch: [33][200/782]	Time 0.316s (0.303s)	Speed 202.6 samples/s	Data 0.000s (0.039s)	Loss 9606.52441 (9733.61508)	Accuracy@1 56.250 (49.930)	Accuracy@5 0.000 (0.000)	
+Epoch: [33][300/782]	Time 0.278s (0.290s)	Speed 230.1 samples/s	Data 0.000s (0.026s)	Loss 9563.22949 (9732.65017)	Accuracy@1 60.938 (50.348)	Accuracy@5 0.000 (0.000)	
+Epoch: [33][400/782]	Time 0.232s (0.283s)	Speed 275.6 samples/s	Data 0.000s (0.019s)	Loss 9656.76562 (9729.25918)	Accuracy@1 46.875 (50.175)	Accuracy@5 0.000 (0.000)	
+Epoch: [33][500/782]	Time 0.250s (0.279s)	Speed 256.3 samples/s	Data 0.000s (0.016s)	Loss 9717.76855 (9726.84982)	Accuracy@1 54.688 (50.006)	Accuracy@5 0.000 (0.000)	
+Epoch: [33][600/782]	Time 0.235s (0.275s)	Speed 272.4 samples/s	Data 0.000s (0.013s)	Loss 9740.67578 (9724.67862)	Accuracy@1 57.812 (49.935)	Accuracy@5 0.000 (0.000)	
+Epoch: [33][700/782]	Time 0.250s (0.271s)	Speed 256.4 samples/s	Data 0.000s (0.011s)	Loss 9602.26562 (9724.37460)	Accuracy@1 43.750 (49.975)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.216	Loss 1.3265	Error@1 47.030	Error@5 100.000	Accuracy@1 52.970	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [34][0/782]	Time 8.177s (8.177s)	Speed 7.8 samples/s	Data 7.837s (7.837s)	Loss 9783.34961 (9783.34961)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [34][100/782]	Time 0.246s (0.348s)	Speed 260.7 samples/s	Data 0.000s (0.078s)	Loss 9853.54102 (9721.65682)	Accuracy@1 51.562 (49.489)	Accuracy@5 0.000 (0.000)	
+Epoch: [34][200/782]	Time 0.254s (0.304s)	Speed 252.3 samples/s	Data 0.000s (0.039s)	Loss 9883.86230 (9717.80154)	Accuracy@1 46.875 (49.370)	Accuracy@5 0.000 (0.000)	
+Epoch: [34][300/782]	Time 0.253s (0.291s)	Speed 253.3 samples/s	Data 0.000s (0.026s)	Loss 9671.67480 (9720.89732)	Accuracy@1 57.812 (49.382)	Accuracy@5 0.000 (0.000)	
+Epoch: [34][400/782]	Time 0.264s (0.284s)	Speed 242.6 samples/s	Data 0.000s (0.020s)	Loss 9759.89941 (9721.61350)	Accuracy@1 50.000 (49.708)	Accuracy@5 0.000 (0.000)	
+Epoch: [34][500/782]	Time 0.260s (0.278s)	Speed 245.9 samples/s	Data 0.000s (0.016s)	Loss 9823.09863 (9721.92432)	Accuracy@1 51.562 (49.894)	Accuracy@5 0.000 (0.000)	
+Epoch: [34][600/782]	Time 0.307s (0.276s)	Speed 208.5 samples/s	Data 0.000s (0.013s)	Loss 9796.49316 (9720.44172)	Accuracy@1 59.375 (50.047)	Accuracy@5 0.000 (0.000)	
+Epoch: [34][700/782]	Time 0.222s (0.272s)	Speed 288.5 samples/s	Data 0.000s (0.011s)	Loss 9789.02637 (9721.80095)	Accuracy@1 48.438 (49.987)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.3252	Error@1 46.710	Error@5 100.000	Accuracy@1 53.290	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [35][0/782]	Time 8.105s (8.105s)	Speed 7.9 samples/s	Data 7.752s (7.752s)	Loss 9575.13184 (9575.13184)	Accuracy@1 45.312 (45.312)	Accuracy@5 0.000 (0.000)	
+Epoch: [35][100/782]	Time 0.231s (0.335s)	Speed 276.7 samples/s	Data 0.000s (0.077s)	Loss 9645.50684 (9727.18499)	Accuracy@1 60.938 (50.340)	Accuracy@5 0.000 (0.000)	
+Epoch: [35][200/782]	Time 0.248s (0.294s)	Speed 258.5 samples/s	Data 0.000s (0.039s)	Loss 9771.66016 (9727.93770)	Accuracy@1 45.312 (50.653)	Accuracy@5 0.000 (0.000)	
+Epoch: [35][300/782]	Time 0.223s (0.280s)	Speed 287.6 samples/s	Data 0.000s (0.026s)	Loss 9795.85352 (9726.12570)	Accuracy@1 50.000 (50.223)	Accuracy@5 0.000 (0.000)	
+Epoch: [35][400/782]	Time 0.244s (0.274s)	Speed 262.0 samples/s	Data 0.000s (0.019s)	Loss 9748.53711 (9724.64982)	Accuracy@1 57.812 (50.094)	Accuracy@5 0.000 (0.000)	
+Epoch: [35][500/782]	Time 0.229s (0.272s)	Speed 279.8 samples/s	Data 0.000s (0.016s)	Loss 9680.29590 (9726.14125)	Accuracy@1 46.875 (50.112)	Accuracy@5 0.000 (0.000)	
+Epoch: [35][600/782]	Time 0.248s (0.270s)	Speed 257.7 samples/s	Data 0.000s (0.013s)	Loss 9748.69824 (9724.98684)	Accuracy@1 50.000 (50.078)	Accuracy@5 0.000 (0.000)	
+Epoch: [35][700/782]	Time 0.333s (0.269s)	Speed 192.3 samples/s	Data 0.000s (0.011s)	Loss 9722.40723 (9723.90525)	Accuracy@1 53.125 (50.120)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.217	Loss 1.3190	Error@1 47.090	Error@5 100.000	Accuracy@1 52.910	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [36][0/782]	Time 15.539s (15.539s)	Speed 4.1 samples/s	Data 7.806s (7.806s)	Loss 9715.32812 (9715.32812)	Accuracy@1 51.562 (51.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][100/782]	Time 0.274s (0.409s)	Speed 233.5 samples/s	Data 0.000s (0.077s)	Loss 9678.74512 (9728.43800)	Accuracy@1 54.688 (50.093)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][200/782]	Time 0.215s (0.330s)	Speed 298.0 samples/s	Data 0.000s (0.039s)	Loss 9664.86914 (9728.33890)	Accuracy@1 56.250 (50.451)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][300/782]	Time 0.232s (0.301s)	Speed 276.0 samples/s	Data 0.000s (0.026s)	Loss 9793.97852 (9724.74933)	Accuracy@1 54.688 (50.420)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][400/782]	Time 0.246s (0.292s)	Speed 259.9 samples/s	Data 0.000s (0.020s)	Loss 9768.24707 (9726.72318)	Accuracy@1 56.250 (50.191)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][500/782]	Time 0.239s (0.285s)	Speed 267.7 samples/s	Data 0.000s (0.016s)	Loss 9678.16113 (9726.54034)	Accuracy@1 54.688 (50.281)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][600/782]	Time 0.247s (0.281s)	Speed 259.2 samples/s	Data 0.000s (0.013s)	Loss 9760.56348 (9725.84575)	Accuracy@1 56.250 (50.385)	Accuracy@5 0.000 (0.000)	
+Epoch: [36][700/782]	Time 0.251s (0.278s)	Speed 254.8 samples/s	Data 0.000s (0.011s)	Loss 9626.99121 (9726.13249)	Accuracy@1 51.562 (50.252)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.213	Loss 1.3193	Error@1 47.070	Error@5 100.000	Accuracy@1 52.930	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [37][0/782]	Time 7.754s (7.754s)	Speed 8.3 samples/s	Data 7.455s (7.455s)	Loss 9660.66895 (9660.66895)	Accuracy@1 48.438 (48.438)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][100/782]	Time 0.234s (0.337s)	Speed 273.1 samples/s	Data 0.000s (0.074s)	Loss 9706.75977 (9736.84231)	Accuracy@1 42.188 (50.743)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][200/782]	Time 0.240s (0.300s)	Speed 266.1 samples/s	Data 0.000s (0.037s)	Loss 9748.42285 (9724.72794)	Accuracy@1 51.562 (50.117)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][300/782]	Time 0.248s (0.285s)	Speed 258.1 samples/s	Data 0.000s (0.025s)	Loss 9548.37793 (9724.11241)	Accuracy@1 48.438 (49.881)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][400/782]	Time 0.249s (0.279s)	Speed 256.7 samples/s	Data 0.000s (0.019s)	Loss 9595.21191 (9724.39965)	Accuracy@1 56.250 (49.895)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][500/782]	Time 0.255s (0.275s)	Speed 250.9 samples/s	Data 0.000s (0.015s)	Loss 9611.45605 (9723.07416)	Accuracy@1 46.875 (49.991)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][600/782]	Time 0.223s (0.272s)	Speed 286.4 samples/s	Data 0.000s (0.013s)	Loss 9634.23242 (9724.67673)	Accuracy@1 45.312 (50.104)	Accuracy@5 0.000 (0.000)	
+Epoch: [37][700/782]	Time 0.245s (0.271s)	Speed 261.6 samples/s	Data 0.000s (0.011s)	Loss 9734.56641 (9723.88283)	Accuracy@1 42.188 (50.033)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.211	Loss 1.3088	Error@1 46.800	Error@5 100.000	Accuracy@1 53.200	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [38][0/782]	Time 8.061s (8.061s)	Speed 7.9 samples/s	Data 7.714s (7.714s)	Loss 9645.91602 (9645.91602)	Accuracy@1 35.938 (35.938)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][100/782]	Time 0.262s (0.346s)	Speed 244.4 samples/s	Data 0.000s (0.077s)	Loss 9691.97168 (9725.12927)	Accuracy@1 45.312 (49.985)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][200/782]	Time 0.268s (0.304s)	Speed 238.6 samples/s	Data 0.000s (0.039s)	Loss 9693.53418 (9722.05613)	Accuracy@1 45.312 (50.062)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][300/782]	Time 0.233s (0.289s)	Speed 274.2 samples/s	Data 0.000s (0.026s)	Loss 9586.15039 (9721.13694)	Accuracy@1 51.562 (50.197)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][400/782]	Time 0.230s (0.281s)	Speed 278.5 samples/s	Data 0.000s (0.019s)	Loss 9705.48633 (9722.73136)	Accuracy@1 51.562 (50.136)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][500/782]	Time 0.235s (0.276s)	Speed 272.8 samples/s	Data 0.000s (0.016s)	Loss 9662.15137 (9723.94113)	Accuracy@1 42.188 (50.240)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][600/782]	Time 0.242s (0.274s)	Speed 264.6 samples/s	Data 0.000s (0.013s)	Loss 9838.18652 (9722.67885)	Accuracy@1 43.750 (50.008)	Accuracy@5 0.000 (0.000)	
+Epoch: [38][700/782]	Time 0.305s (0.272s)	Speed 209.5 samples/s	Data 0.000s (0.011s)	Loss 9669.91797 (9722.85684)	Accuracy@1 43.750 (50.096)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.213	Loss 1.3156	Error@1 47.070	Error@5 100.000	Accuracy@1 52.930	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [39][0/782]	Time 8.296s (8.296s)	Speed 7.7 samples/s	Data 7.952s (7.952s)	Loss 9640.57812 (9640.57812)	Accuracy@1 53.125 (53.125)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][100/782]	Time 0.257s (0.341s)	Speed 248.7 samples/s	Data 0.000s (0.079s)	Loss 9749.67676 (9722.62476)	Accuracy@1 40.625 (49.923)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][200/782]	Time 0.261s (0.296s)	Speed 245.6 samples/s	Data 0.000s (0.040s)	Loss 9769.02539 (9720.19814)	Accuracy@1 48.438 (49.961)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][300/782]	Time 0.243s (0.284s)	Speed 263.8 samples/s	Data 0.000s (0.027s)	Loss 9792.50000 (9722.10356)	Accuracy@1 45.312 (49.829)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][400/782]	Time 0.228s (0.277s)	Speed 280.2 samples/s	Data 0.000s (0.020s)	Loss 9673.71777 (9722.00087)	Accuracy@1 46.875 (49.797)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][500/782]	Time 0.272s (0.274s)	Speed 235.2 samples/s	Data 0.000s (0.016s)	Loss 9596.89160 (9719.59055)	Accuracy@1 39.062 (50.016)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][600/782]	Time 0.233s (0.272s)	Speed 274.3 samples/s	Data 0.000s (0.013s)	Loss 9658.50293 (9720.42267)	Accuracy@1 48.438 (49.956)	Accuracy@5 0.000 (0.000)	
+Epoch: [39][700/782]	Time 0.246s (0.270s)	Speed 260.4 samples/s	Data 0.000s (0.011s)	Loss 9692.49023 (9719.74991)	Accuracy@1 51.562 (49.984)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.3156	Error@1 47.140	Error@5 100.000	Accuracy@1 52.860	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [40][0/782]	Time 7.932s (7.932s)	Speed 8.1 samples/s	Data 7.608s (7.608s)	Loss 9692.01562 (9692.01562)	Accuracy@1 48.438 (48.438)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][100/782]	Time 0.268s (0.338s)	Speed 238.8 samples/s	Data 0.000s (0.075s)	Loss 9759.72266 (9732.83862)	Accuracy@1 57.812 (50.217)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][200/782]	Time 0.243s (0.302s)	Speed 263.1 samples/s	Data 0.000s (0.038s)	Loss 9825.13574 (9720.21048)	Accuracy@1 46.875 (50.474)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][300/782]	Time 0.246s (0.289s)	Speed 259.9 samples/s	Data 0.000s (0.025s)	Loss 9710.21582 (9720.22817)	Accuracy@1 46.875 (50.436)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][400/782]	Time 0.253s (0.283s)	Speed 253.4 samples/s	Data 0.000s (0.019s)	Loss 9612.80273 (9717.22686)	Accuracy@1 45.312 (50.440)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][500/782]	Time 0.239s (0.278s)	Speed 267.3 samples/s	Data 0.000s (0.015s)	Loss 9713.90918 (9715.21998)	Accuracy@1 43.750 (50.658)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][600/782]	Time 0.243s (0.275s)	Speed 262.8 samples/s	Data 0.000s (0.013s)	Loss 9709.42578 (9716.78598)	Accuracy@1 51.562 (50.645)	Accuracy@5 0.000 (0.000)	
+Epoch: [40][700/782]	Time 0.312s (0.272s)	Speed 205.0 samples/s	Data 0.000s (0.011s)	Loss 9746.97656 (9718.17386)	Accuracy@1 45.312 (50.629)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.248	Loss 1.3072	Error@1 46.900	Error@5 100.000	Accuracy@1 53.100	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [41][0/782]	Time 8.282s (8.282s)	Speed 7.7 samples/s	Data 7.937s (7.937s)	Loss 9546.18848 (9546.18848)	Accuracy@1 45.312 (45.312)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][100/782]	Time 0.279s (0.348s)	Speed 229.3 samples/s	Data 0.000s (0.079s)	Loss 9772.42773 (9734.56755)	Accuracy@1 50.000 (50.325)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][200/782]	Time 0.261s (0.305s)	Speed 245.1 samples/s	Data 0.000s (0.040s)	Loss 9822.25195 (9728.16341)	Accuracy@1 43.750 (50.995)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][300/782]	Time 0.231s (0.291s)	Speed 276.8 samples/s	Data 0.000s (0.026s)	Loss 9855.04980 (9717.93909)	Accuracy@1 56.250 (50.950)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][400/782]	Time 0.300s (0.282s)	Speed 213.6 samples/s	Data 0.000s (0.020s)	Loss 9693.78027 (9719.04909)	Accuracy@1 51.562 (50.483)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][500/782]	Time 0.314s (0.278s)	Speed 204.1 samples/s	Data 0.000s (0.016s)	Loss 9711.41992 (9721.40353)	Accuracy@1 45.312 (50.646)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][600/782]	Time 0.283s (0.276s)	Speed 225.9 samples/s	Data 0.000s (0.013s)	Loss 9716.81934 (9718.95184)	Accuracy@1 51.562 (50.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [41][700/782]	Time 0.249s (0.273s)	Speed 257.2 samples/s	Data 0.000s (0.011s)	Loss 9773.66406 (9719.35677)	Accuracy@1 48.438 (50.553)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.212	Loss 1.3031	Error@1 46.260	Error@5 100.000	Accuracy@1 53.740	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [42][0/782]	Time 7.831s (7.831s)	Speed 8.2 samples/s	Data 7.453s (7.453s)	Loss 9930.78125 (9930.78125)	Accuracy@1 67.188 (67.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][100/782]	Time 0.257s (0.341s)	Speed 249.5 samples/s	Data 0.000s (0.074s)	Loss 9828.32129 (9720.55470)	Accuracy@1 46.875 (50.774)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][200/782]	Time 0.260s (0.307s)	Speed 246.5 samples/s	Data 0.000s (0.037s)	Loss 9773.02148 (9721.77667)	Accuracy@1 54.688 (50.692)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][300/782]	Time 0.272s (0.294s)	Speed 235.0 samples/s	Data 0.000s (0.025s)	Loss 9790.35059 (9724.04206)	Accuracy@1 43.750 (50.452)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][400/782]	Time 0.247s (0.285s)	Speed 259.4 samples/s	Data 0.000s (0.019s)	Loss 9765.37598 (9726.11688)	Accuracy@1 39.062 (50.257)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][500/782]	Time 0.258s (0.280s)	Speed 248.1 samples/s	Data 0.000s (0.015s)	Loss 9907.02246 (9726.98128)	Accuracy@1 56.250 (50.487)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][600/782]	Time 0.244s (0.277s)	Speed 261.8 samples/s	Data 0.000s (0.013s)	Loss 9604.44727 (9726.51368)	Accuracy@1 57.812 (50.413)	Accuracy@5 0.000 (0.000)	
+Epoch: [42][700/782]	Time 0.305s (0.275s)	Speed 210.0 samples/s	Data 0.000s (0.011s)	Loss 9796.79883 (9725.47367)	Accuracy@1 48.438 (50.341)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.3077	Error@1 46.800	Error@5 100.000	Accuracy@1 53.200	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [43][0/782]	Time 8.011s (8.011s)	Speed 8.0 samples/s	Data 7.681s (7.681s)	Loss 9635.81738 (9635.81738)	Accuracy@1 56.250 (56.250)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][100/782]	Time 0.249s (0.335s)	Speed 257.0 samples/s	Data 0.000s (0.076s)	Loss 9702.71777 (9732.20412)	Accuracy@1 46.875 (50.959)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][200/782]	Time 0.255s (0.298s)	Speed 250.7 samples/s	Data 0.000s (0.038s)	Loss 9774.44141 (9726.12506)	Accuracy@1 40.625 (50.840)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][300/782]	Time 0.245s (0.285s)	Speed 261.6 samples/s	Data 0.000s (0.026s)	Loss 9568.08105 (9726.70483)	Accuracy@1 60.938 (50.825)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][400/782]	Time 0.311s (0.279s)	Speed 205.8 samples/s	Data 0.000s (0.019s)	Loss 9738.96777 (9725.76897)	Accuracy@1 46.875 (50.627)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][500/782]	Time 0.262s (0.276s)	Speed 244.2 samples/s	Data 0.000s (0.015s)	Loss 9547.74707 (9721.26564)	Accuracy@1 57.812 (50.446)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][600/782]	Time 0.272s (0.274s)	Speed 235.7 samples/s	Data 0.000s (0.013s)	Loss 9655.11230 (9722.10358)	Accuracy@1 50.000 (50.276)	Accuracy@5 0.000 (0.000)	
+Epoch: [43][700/782]	Time 0.270s (0.272s)	Speed 237.1 samples/s	Data 0.000s (0.011s)	Loss 9761.71680 (9723.29848)	Accuracy@1 51.562 (50.265)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.3037	Error@1 46.170	Error@5 100.000	Accuracy@1 53.830	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [44][0/782]	Time 8.191s (8.191s)	Speed 7.8 samples/s	Data 7.852s (7.852s)	Loss 9756.35254 (9756.35254)	Accuracy@1 46.875 (46.875)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][100/782]	Time 0.240s (0.344s)	Speed 267.1 samples/s	Data 0.000s (0.078s)	Loss 9803.25098 (9726.54601)	Accuracy@1 50.000 (50.093)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][200/782]	Time 0.238s (0.306s)	Speed 268.6 samples/s	Data 0.000s (0.039s)	Loss 9693.22949 (9719.93488)	Accuracy@1 54.688 (50.350)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][300/782]	Time 0.264s (0.291s)	Speed 242.9 samples/s	Data 0.000s (0.026s)	Loss 9818.88672 (9722.23548)	Accuracy@1 53.125 (50.317)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][400/782]	Time 0.259s (0.283s)	Speed 246.7 samples/s	Data 0.000s (0.020s)	Loss 9833.82422 (9727.92658)	Accuracy@1 59.375 (50.281)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][500/782]	Time 0.230s (0.278s)	Speed 278.5 samples/s	Data 0.000s (0.016s)	Loss 9659.09473 (9726.66827)	Accuracy@1 53.125 (50.237)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][600/782]	Time 0.260s (0.275s)	Speed 246.4 samples/s	Data 0.000s (0.013s)	Loss 9586.42676 (9726.13255)	Accuracy@1 53.125 (50.302)	Accuracy@5 0.000 (0.000)	
+Epoch: [44][700/782]	Time 0.243s (0.273s)	Speed 263.8 samples/s	Data 0.000s (0.011s)	Loss 9726.45801 (9724.00709)	Accuracy@1 48.438 (50.437)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.3057	Error@1 46.130	Error@5 100.000	Accuracy@1 53.870	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [45][0/782]	Time 8.037s (8.037s)	Speed 8.0 samples/s	Data 7.702s (7.702s)	Loss 9716.94238 (9716.94238)	Accuracy@1 48.438 (48.438)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][100/782]	Time 0.258s (0.338s)	Speed 248.2 samples/s	Data 0.000s (0.076s)	Loss 9781.10742 (9732.35791)	Accuracy@1 42.188 (50.263)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][200/782]	Time 0.252s (0.299s)	Speed 254.2 samples/s	Data 0.000s (0.038s)	Loss 9698.45117 (9725.46520)	Accuracy@1 50.000 (50.583)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][300/782]	Time 0.241s (0.285s)	Speed 265.1 samples/s	Data 0.000s (0.026s)	Loss 9657.60742 (9723.34372)	Accuracy@1 53.125 (50.566)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][400/782]	Time 0.245s (0.280s)	Speed 261.4 samples/s	Data 0.000s (0.019s)	Loss 9723.05371 (9722.02982)	Accuracy@1 48.438 (50.631)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][500/782]	Time 0.257s (0.276s)	Speed 248.6 samples/s	Data 0.000s (0.015s)	Loss 9608.55664 (9723.64242)	Accuracy@1 59.375 (50.577)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][600/782]	Time 0.303s (0.273s)	Speed 211.2 samples/s	Data 0.000s (0.013s)	Loss 9635.48828 (9724.68197)	Accuracy@1 35.938 (50.585)	Accuracy@5 0.000 (0.000)	
+Epoch: [45][700/782]	Time 0.236s (0.271s)	Speed 270.8 samples/s	Data 0.000s (0.011s)	Loss 9804.56445 (9723.21509)	Accuracy@1 53.125 (50.559)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.224	Loss 1.3067	Error@1 47.230	Error@5 100.000	Accuracy@1 52.770	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [46][0/782]	Time 7.961s (7.961s)	Speed 8.0 samples/s	Data 7.622s (7.622s)	Loss 9667.47949 (9667.47949)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][100/782]	Time 0.247s (0.335s)	Speed 258.9 samples/s	Data 0.000s (0.076s)	Loss 9768.71289 (9719.29441)	Accuracy@1 45.312 (50.758)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][200/782]	Time 0.268s (0.302s)	Speed 238.5 samples/s	Data 0.000s (0.038s)	Loss 9676.57324 (9721.31931)	Accuracy@1 56.250 (50.925)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][300/782]	Time 0.239s (0.288s)	Speed 267.4 samples/s	Data 0.000s (0.025s)	Loss 9652.34863 (9718.50517)	Accuracy@1 40.625 (50.815)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][400/782]	Time 0.264s (0.281s)	Speed 242.2 samples/s	Data 0.000s (0.019s)	Loss 9681.65332 (9720.54523)	Accuracy@1 46.875 (50.584)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][500/782]	Time 0.244s (0.279s)	Speed 261.8 samples/s	Data 0.000s (0.015s)	Loss 9756.67480 (9722.14746)	Accuracy@1 64.062 (50.630)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][600/782]	Time 0.237s (0.276s)	Speed 270.3 samples/s	Data 0.000s (0.013s)	Loss 9688.13574 (9719.65852)	Accuracy@1 53.125 (50.588)	Accuracy@5 0.000 (0.000)	
+Epoch: [46][700/782]	Time 0.240s (0.274s)	Speed 266.2 samples/s	Data 0.000s (0.011s)	Loss 9822.69824 (9719.50359)	Accuracy@1 40.625 (50.606)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.220	Loss 1.3159	Error@1 46.700	Error@5 100.000	Accuracy@1 53.300	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [47][0/782]	Time 7.791s (7.791s)	Speed 8.2 samples/s	Data 7.459s (7.459s)	Loss 9875.41895 (9875.41895)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][100/782]	Time 0.265s (0.339s)	Speed 241.9 samples/s	Data 0.000s (0.074s)	Loss 9904.81348 (9719.90086)	Accuracy@1 56.250 (50.031)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][200/782]	Time 0.311s (0.301s)	Speed 205.7 samples/s	Data 0.000s (0.037s)	Loss 9796.77637 (9725.43884)	Accuracy@1 50.000 (51.003)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][300/782]	Time 0.313s (0.289s)	Speed 204.4 samples/s	Data 0.000s (0.025s)	Loss 9728.47754 (9728.82458)	Accuracy@1 46.875 (50.561)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][400/782]	Time 0.221s (0.283s)	Speed 290.0 samples/s	Data 0.000s (0.019s)	Loss 9777.87695 (9722.21051)	Accuracy@1 39.062 (50.534)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][500/782]	Time 0.280s (0.277s)	Speed 228.9 samples/s	Data 0.000s (0.015s)	Loss 9663.40234 (9721.25783)	Accuracy@1 43.750 (50.555)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][600/782]	Time 0.253s (0.275s)	Speed 253.4 samples/s	Data 0.000s (0.013s)	Loss 9602.31738 (9722.92161)	Accuracy@1 53.125 (50.671)	Accuracy@5 0.000 (0.000)	
+Epoch: [47][700/782]	Time 0.236s (0.274s)	Speed 271.0 samples/s	Data 0.000s (0.011s)	Loss 9581.31934 (9722.81975)	Accuracy@1 50.000 (50.571)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.3124	Error@1 46.560	Error@5 100.000	Accuracy@1 53.440	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [48][0/782]	Time 8.005s (8.005s)	Speed 8.0 samples/s	Data 7.657s (7.657s)	Loss 9809.22070 (9809.22070)	Accuracy@1 40.625 (40.625)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][100/782]	Time 0.231s (0.343s)	Speed 277.0 samples/s	Data 0.000s (0.076s)	Loss 9575.05664 (9732.39125)	Accuracy@1 51.562 (50.511)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][200/782]	Time 0.238s (0.295s)	Speed 268.7 samples/s	Data 0.000s (0.038s)	Loss 9861.86328 (9728.02669)	Accuracy@1 42.188 (50.855)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][300/782]	Time 0.273s (0.284s)	Speed 234.7 samples/s	Data 0.000s (0.026s)	Loss 9754.89648 (9724.55414)	Accuracy@1 50.000 (50.218)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][400/782]	Time 0.295s (0.275s)	Speed 217.1 samples/s	Data 0.000s (0.019s)	Loss 9882.19922 (9723.83588)	Accuracy@1 51.562 (50.460)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][500/782]	Time 0.306s (0.274s)	Speed 209.0 samples/s	Data 0.000s (0.015s)	Loss 9672.35742 (9723.86846)	Accuracy@1 48.438 (50.549)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][600/782]	Time 0.243s (0.273s)	Speed 263.2 samples/s	Data 0.000s (0.013s)	Loss 9747.73340 (9726.23013)	Accuracy@1 53.125 (50.593)	Accuracy@5 0.000 (0.000)	
+Epoch: [48][700/782]	Time 0.263s (0.271s)	Speed 243.5 samples/s	Data 0.000s (0.011s)	Loss 9644.68066 (9725.33929)	Accuracy@1 54.688 (50.655)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.217	Loss 1.3171	Error@1 47.180	Error@5 100.000	Accuracy@1 52.820	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [49][0/782]	Time 8.057s (8.057s)	Speed 7.9 samples/s	Data 7.715s (7.715s)	Loss 9698.85840 (9698.85840)	Accuracy@1 50.000 (50.000)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][100/782]	Time 0.308s (0.332s)	Speed 207.8 samples/s	Data 0.000s (0.077s)	Loss 9639.43262 (9715.83314)	Accuracy@1 43.750 (50.186)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][200/782]	Time 0.236s (0.294s)	Speed 271.8 samples/s	Data 0.000s (0.039s)	Loss 9747.27734 (9718.89166)	Accuracy@1 40.625 (50.373)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][300/782]	Time 0.247s (0.284s)	Speed 259.3 samples/s	Data 0.000s (0.026s)	Loss 9543.92871 (9719.05143)	Accuracy@1 62.500 (50.332)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][400/782]	Time 0.250s (0.277s)	Speed 255.8 samples/s	Data 0.000s (0.019s)	Loss 9786.24512 (9720.42776)	Accuracy@1 51.562 (50.425)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][500/782]	Time 0.227s (0.273s)	Speed 281.6 samples/s	Data 0.000s (0.016s)	Loss 9824.37109 (9722.65590)	Accuracy@1 53.125 (50.599)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][600/782]	Time 0.252s (0.271s)	Speed 253.6 samples/s	Data 0.000s (0.013s)	Loss 10000.80859 (9723.68445)	Accuracy@1 53.125 (50.790)	Accuracy@5 0.000 (0.000)	
+Epoch: [49][700/782]	Time 0.273s (0.270s)	Speed 234.2 samples/s	Data 0.000s (0.011s)	Loss 9689.15723 (9725.15987)	Accuracy@1 57.812 (50.622)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.213	Loss 1.3030	Error@1 46.580	Error@5 100.000	Accuracy@1 53.420	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+saving final model state to output/cifar10/cls_mdeq_TINY/final_state.pth.tar
+Namespace(cfg='experiments/cifar/cls_mdeq_TINY.yaml', dataDir='', lbd=0.8, logDir='', modelDir='', opts=[], percent=1.0, testModel='')
+{'AUTO_RESUME': False,
+ 'CUDNN': CfgNode({'BENCHMARK': True, 'DETERMINISTIC': False, 'ENABLED': True}),
+ 'DATASET': {'COLOR_RGB': False,
+             'DATASET': 'cifar10',
+             'DATA_FORMAT': 'jpg',
+             'EXTRA_TRAIN_SET': '',
+             'FLIP': True,
+             'HYBRID_JOINTS_TYPE': '',
+             'NUM_CLASSES': 1000,
+             'NUM_JOINTS_HALF_BODY': 8,
+             'PROB_HALF_BODY': 0.0,
+             'ROOT': 'data/cifar10/',
+             'ROT_FACTOR': 30,
+             'SCALE_FACTOR': 0.25,
+             'SELECT_DATA': False,
+             'TEST_SET': 'val',
+             'TRAIN_SET': 'train'},
+ 'DATA_DIR': '',
+ 'DEBUG': {'DEBUG': False,
+           'SAVE_BATCH_IMAGES_GT': False,
+           'SAVE_BATCH_IMAGES_PRED': False,
+           'SAVE_HEATMAPS_GT': False,
+           'SAVE_HEATMAPS_PRED': False},
+ 'GPUS': (0,),
+ 'LOG_DIR': 'log/',
+ 'LOSS': {'CLASS_BALANCE': True,
+          'OHEMKEEP': 100000,
+          'OHEMTHRES': 0.9,
+          'TOPK': 8,
+          'USE_DIFFERENT_JOINTS_WEIGHT': False,
+          'USE_OHEM': False,
+          'USE_TARGET_WEIGHT': True},
+ 'MODEL': {'B_THRES': 30,
+           'DOWNSAMPLE_TIMES': 0,
+           'DROPOUT': 0.15,
+           'EXPANSION_FACTOR': 5,
+           'EXTRA': {'FULL_STAGE': {'BLOCK': 'BASIC',
+                                    'FINAL_CHANSIZE': 128,
+                                    'FUSE_METHOD': 'SUM',
+                                    'HEAD_CHANNELS': [4, 8, 16],
+                                    'NUM_BLOCKS': [1, 1, 1],
+                                    'NUM_BRANCHES': 3,
+                                    'NUM_CHANNELS': [8, 16, 32],
+                                    'NUM_MODULES': 1}},
+           'F_THRES': 30,
+           'HEATMAP_SIZE': [64, 64],
+           'IMAGE_SIZE': [32, 32],
+           'INIT_WEIGHTS': True,
+           'NAME': 'mdeq',
+           'NUM_CLASSES': 10,
+           'NUM_GROUPS': 8,
+           'NUM_JOINTS': 17,
+           'NUM_LAYERS': 10,
+           'PRETRAINED': '',
+           'SIGMA': 2,
+           'TAG_PER_JOINT': True,
+           'TARGET_TYPE': 'gaussian',
+           'WNORM': True},
+ 'OUTPUT_DIR': 'output/',
+ 'PERCENT': 1.0,
+ 'PIN_MEMORY': True,
+ 'PRINT_FREQ': 100,
+ 'RANK': 0,
+ 'TEST': {'BASE_SIZE': 2048,
+          'BATCH_SIZE_PER_GPU': 64,
+          'BBOX_THRE': 1.0,
+          'CENTER_CROP_TEST': False,
+          'COCO_BBOX_FILE': '',
+          'FLIP_TEST': False,
+          'IMAGE_SIZE': [2048, 1024],
+          'IMAGE_THRE': 0.1,
+          'IN_VIS_THRE': 0.0,
+          'MODEL_FILE': '',
+          'MULTI_SCALE': False,
+          'NMS_THRE': 0.6,
+          'NUM_SAMPLES': 0,
+          'OKS_THRE': 0.5,
+          'POST_PROCESS': False,
+          'SCALE_LIST': [1],
+          'SHIFT_HEATMAP': False,
+          'SOFT_NMS': False,
+          'USE_GT_BBOX': False},
+ 'TRAIN': {'BASE_SIZE': 2048,
+           'BATCH_SIZE_PER_GPU': 64,
+           'BEGIN_EPOCH': 0,
+           'CHECKPOINT': '',
+           'CLIP': -1.0,
+           'DOWNSAMPLERATE': 1,
+           'END_EPOCH': 50,
+           'EXTRA_EPOCH': 0,
+           'EXTRA_LR': 0.001,
+           'FLIP': True,
+           'GAMMA1': 0.99,
+           'GAMMA2': 0.0,
+           'IGNORE_LABEL': -1,
+           'IMAGE_SIZE': [1024, 512],
+           'LR': 0.001,
+           'LR_FACTOR': 0.1,
+           'LR_SCHEDULER': 'cosine',
+           'LR_STEP': [30, 60, 90],
+           'MODEL_FILE': '',
+           'MOMENTUM': 0.9,
+           'MULTI_SCALE': True,
+           'NESTEROV': True,
+           'OPTIMIZER': 'adam',
+           'PRETRAIN_STEPS': 0,
+           'RESUME': False,
+           'SCALE_FACTOR': 16,
+           'SHUFFLE': True,
+           'WD': 0.0},
+ 'WORKERS': 2}
+=> init weights from normal distribution
+
+[36mSetting default tensor type to cuda.FloatTensor[0m
+=> creating output/cifar10/cls_mdeq_TINY
+=> creating log/cifar10/mdeq/cls_mdeq_TINY_2020-07-19-07-25
+Running from mdeq_core...
+--Training--
+x_list.shape: 3
+Finished constructing model!
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch: [0][0/782]	Time 7.994s (7.994s)	Speed 8.0 samples/s	Data 7.520s (7.520s)	Loss 13044.30566 (13044.30566)	Accuracy@1 12.500 (12.500)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][100/782]	Time 0.243s (0.339s)	Speed 263.5 samples/s	Data 0.000s (0.075s)	Loss 13185.61230 (13028.27996)	Accuracy@1 25.000 (14.666)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][200/782]	Time 0.250s (0.298s)	Speed 255.8 samples/s	Data 0.000s (0.038s)	Loss 13003.76855 (13036.00165)	Accuracy@1 25.000 (17.988)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][300/782]	Time 0.239s (0.284s)	Speed 267.6 samples/s	Data 0.000s (0.025s)	Loss 13041.63574 (13034.85619)	Accuracy@1 18.750 (19.498)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][400/782]	Time 0.245s (0.278s)	Speed 260.8 samples/s	Data 0.000s (0.019s)	Loss 13069.81445 (13033.28980)	Accuracy@1 26.562 (20.920)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][500/782]	Time 0.300s (0.274s)	Speed 213.7 samples/s	Data 0.000s (0.015s)	Loss 13013.18750 (13032.33731)	Accuracy@1 21.875 (22.015)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][600/782]	Time 0.241s (0.271s)	Speed 265.8 samples/s	Data 0.000s (0.013s)	Loss 12969.71387 (13029.31319)	Accuracy@1 21.875 (23.196)	Accuracy@5 0.000 (0.000)	
+Epoch: [0][700/782]	Time 0.315s (0.268s)	Speed 202.9 samples/s	Data 0.000s (0.011s)	Loss 13018.90820 (13029.50065)	Accuracy@1 28.125 (24.075)	Accuracy@5 0.000 (0.000)	
+Running from mdeq_core...
+--Training--
+x_list.shape: 3
+Test: Time 0.214	Loss 1.9691	Error@1 69.750	Error@5 100.000	Accuracy@1 30.250	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [1][0/782]	Time 7.997s (7.997s)	Speed 8.0 samples/s	Data 7.671s (7.671s)	Loss 13138.41602 (13138.41602)	Accuracy@1 26.562 (26.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][100/782]	Time 0.266s (0.331s)	Speed 240.9 samples/s	Data 0.000s (0.076s)	Loss 13042.72949 (13017.51544)	Accuracy@1 29.688 (30.538)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][200/782]	Time 0.266s (0.294s)	Speed 241.0 samples/s	Data 0.000s (0.038s)	Loss 12970.63086 (13019.33311)	Accuracy@1 18.750 (30.613)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][300/782]	Time 0.257s (0.281s)	Speed 249.0 samples/s	Data 0.000s (0.026s)	Loss 12954.73340 (13022.79134)	Accuracy@1 45.312 (31.006)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][400/782]	Time 0.245s (0.276s)	Speed 261.0 samples/s	Data 0.000s (0.019s)	Loss 12849.03906 (13023.33038)	Accuracy@1 31.250 (31.472)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][500/782]	Time 0.271s (0.274s)	Speed 235.7 samples/s	Data 0.000s (0.015s)	Loss 13031.13672 (13024.40524)	Accuracy@1 29.688 (31.808)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][600/782]	Time 0.263s (0.271s)	Speed 242.9 samples/s	Data 0.000s (0.013s)	Loss 13156.43262 (13027.64510)	Accuracy@1 21.875 (31.908)	Accuracy@5 0.000 (0.000)	
+Epoch: [1][700/782]	Time 0.312s (0.269s)	Speed 204.9 samples/s	Data 0.000s (0.011s)	Loss 13118.29883 (13029.31397)	Accuracy@1 28.125 (32.275)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.8148	Error@1 66.690	Error@5 100.000	Accuracy@1 33.310	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [2][0/782]	Time 8.250s (8.250s)	Speed 7.8 samples/s	Data 7.922s (7.922s)	Loss 13143.37109 (13143.37109)	Accuracy@1 26.562 (26.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][100/782]	Time 0.266s (0.338s)	Speed 240.3 samples/s	Data 0.000s (0.079s)	Loss 12994.07422 (13032.19184)	Accuracy@1 37.500 (34.793)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][200/782]	Time 0.259s (0.299s)	Speed 246.9 samples/s	Data 0.000s (0.040s)	Loss 12905.50098 (13023.77206)	Accuracy@1 34.375 (34.834)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][300/782]	Time 0.297s (0.289s)	Speed 215.8 samples/s	Data 0.000s (0.026s)	Loss 13129.07910 (13026.39535)	Accuracy@1 20.312 (35.076)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][400/782]	Time 0.243s (0.281s)	Speed 263.3 samples/s	Data 0.000s (0.020s)	Loss 12929.92578 (13028.98836)	Accuracy@1 34.375 (34.769)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][500/782]	Time 0.224s (0.276s)	Speed 285.3 samples/s	Data 0.000s (0.016s)	Loss 13065.30176 (13029.33374)	Accuracy@1 43.750 (34.968)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][600/782]	Time 0.278s (0.274s)	Speed 230.4 samples/s	Data 0.000s (0.013s)	Loss 13022.30078 (13029.02398)	Accuracy@1 35.938 (35.298)	Accuracy@5 0.000 (0.000)	
+Epoch: [2][700/782]	Time 0.256s (0.272s)	Speed 250.4 samples/s	Data 0.000s (0.011s)	Loss 13069.23828 (13027.96149)	Accuracy@1 37.500 (35.391)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.230	Loss 1.6793	Error@1 61.340	Error@5 100.000	Accuracy@1 38.660	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [3][0/782]	Time 13.884s (13.884s)	Speed 4.6 samples/s	Data 8.044s (8.044s)	Loss 13061.10742 (13061.10742)	Accuracy@1 32.812 (32.812)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][100/782]	Time 0.235s (0.399s)	Speed 272.4 samples/s	Data 0.000s (0.080s)	Loss 13049.80078 (13027.72818)	Accuracy@1 51.562 (37.670)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][200/782]	Time 0.224s (0.325s)	Speed 285.7 samples/s	Data 0.000s (0.040s)	Loss 12982.28320 (13029.53232)	Accuracy@1 39.062 (36.886)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][300/782]	Time 0.244s (0.303s)	Speed 261.9 samples/s	Data 0.000s (0.027s)	Loss 13001.09277 (13024.40396)	Accuracy@1 35.938 (37.656)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][400/782]	Time 0.246s (0.291s)	Speed 260.3 samples/s	Data 0.000s (0.020s)	Loss 13096.54883 (13025.29595)	Accuracy@1 39.062 (37.722)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][500/782]	Time 0.220s (0.284s)	Speed 290.5 samples/s	Data 0.000s (0.016s)	Loss 12873.35840 (13024.44876)	Accuracy@1 40.625 (37.656)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][600/782]	Time 0.245s (0.280s)	Speed 261.7 samples/s	Data 0.000s (0.014s)	Loss 12839.42969 (13022.25612)	Accuracy@1 50.000 (37.770)	Accuracy@5 0.000 (0.000)	
+Epoch: [3][700/782]	Time 0.306s (0.276s)	Speed 209.4 samples/s	Data 0.000s (0.012s)	Loss 12968.31152 (13021.60759)	Accuracy@1 40.625 (37.932)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.218	Loss 1.6226	Error@1 59.480	Error@5 100.000	Accuracy@1 40.520	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [4][0/782]	Time 8.916s (8.916s)	Speed 7.2 samples/s	Data 7.788s (7.788s)	Loss 12983.43945 (12983.43945)	Accuracy@1 46.875 (46.875)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][100/782]	Time 0.229s (0.341s)	Speed 279.4 samples/s	Data 0.000s (0.077s)	Loss 13088.81836 (13035.40618)	Accuracy@1 40.625 (39.186)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][200/782]	Time 0.272s (0.300s)	Speed 235.1 samples/s	Data 0.000s (0.039s)	Loss 12963.08008 (13028.98347)	Accuracy@1 45.312 (38.969)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][300/782]	Time 0.228s (0.290s)	Speed 280.8 samples/s	Data 0.000s (0.026s)	Loss 13010.67871 (13023.88700)	Accuracy@1 43.750 (39.047)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][400/782]	Time 0.229s (0.283s)	Speed 280.1 samples/s	Data 0.000s (0.020s)	Loss 12973.26562 (13026.11971)	Accuracy@1 45.312 (39.218)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][500/782]	Time 0.246s (0.279s)	Speed 260.1 samples/s	Data 0.000s (0.016s)	Loss 13071.96191 (13029.93566)	Accuracy@1 40.625 (39.412)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][600/782]	Time 0.233s (0.276s)	Speed 275.1 samples/s	Data 0.000s (0.013s)	Loss 13138.00098 (13028.54841)	Accuracy@1 28.125 (39.359)	Accuracy@5 0.000 (0.000)	
+Epoch: [4][700/782]	Time 0.266s (0.271s)	Speed 241.0 samples/s	Data 0.000s (0.011s)	Loss 12925.05273 (13027.09425)	Accuracy@1 42.188 (39.294)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.218	Loss 1.7171	Error@1 60.960	Error@5 100.000	Accuracy@1 39.040	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [5][0/782]	Time 8.030s (8.030s)	Speed 8.0 samples/s	Data 7.690s (7.690s)	Loss 12888.55078 (12888.55078)	Accuracy@1 31.250 (31.250)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][100/782]	Time 0.270s (0.342s)	Speed 236.7 samples/s	Data 0.000s (0.076s)	Loss 12984.83789 (13026.57065)	Accuracy@1 37.500 (39.898)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][200/782]	Time 0.245s (0.298s)	Speed 261.7 samples/s	Data 0.000s (0.038s)	Loss 13002.64062 (13027.08715)	Accuracy@1 43.750 (39.661)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][300/782]	Time 0.242s (0.283s)	Speed 264.4 samples/s	Data 0.000s (0.026s)	Loss 12859.20605 (13025.77278)	Accuracy@1 39.062 (39.981)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][400/782]	Time 0.221s (0.276s)	Speed 289.4 samples/s	Data 0.000s (0.019s)	Loss 13085.83594 (13028.37066)	Accuracy@1 42.188 (40.189)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][500/782]	Time 0.218s (0.268s)	Speed 294.2 samples/s	Data 0.000s (0.015s)	Loss 12938.76953 (13027.84450)	Accuracy@1 29.688 (40.001)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][600/782]	Time 0.267s (0.267s)	Speed 239.9 samples/s	Data 0.000s (0.013s)	Loss 12920.23828 (13024.65711)	Accuracy@1 45.312 (40.050)	Accuracy@5 0.000 (0.000)	
+Epoch: [5][700/782]	Time 0.256s (0.266s)	Speed 250.3 samples/s	Data 0.000s (0.011s)	Loss 12857.09961 (13022.27335)	Accuracy@1 40.625 (40.030)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.6613	Error@1 58.950	Error@5 100.000	Accuracy@1 41.050	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [6][0/782]	Time 9.288s (9.288s)	Speed 6.9 samples/s	Data 7.940s (7.940s)	Loss 12989.80664 (12989.80664)	Accuracy@1 40.625 (40.625)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][100/782]	Time 0.243s (0.340s)	Speed 263.7 samples/s	Data 0.000s (0.079s)	Loss 13120.16406 (13033.66231)	Accuracy@1 42.188 (41.182)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][200/782]	Time 0.259s (0.301s)	Speed 247.3 samples/s	Data 0.000s (0.040s)	Loss 12950.64746 (13026.73923)	Accuracy@1 42.188 (41.021)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][300/782]	Time 0.280s (0.286s)	Speed 228.4 samples/s	Data 0.000s (0.027s)	Loss 13193.96973 (13028.72299)	Accuracy@1 40.625 (41.097)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][400/782]	Time 0.224s (0.278s)	Speed 285.9 samples/s	Data 0.000s (0.020s)	Loss 13010.64551 (13029.10349)	Accuracy@1 42.188 (41.202)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][500/782]	Time 0.313s (0.274s)	Speed 204.3 samples/s	Data 0.000s (0.016s)	Loss 13190.08105 (13026.97517)	Accuracy@1 37.500 (41.243)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][600/782]	Time 0.322s (0.272s)	Speed 198.7 samples/s	Data 0.000s (0.013s)	Loss 13029.34863 (13026.81890)	Accuracy@1 43.750 (41.265)	Accuracy@5 0.000 (0.000)	
+Epoch: [6][700/782]	Time 0.246s (0.270s)	Speed 259.7 samples/s	Data 0.000s (0.011s)	Loss 12874.94043 (13028.18917)	Accuracy@1 42.188 (41.369)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.227	Loss 1.6933	Error@1 60.620	Error@5 100.000	Accuracy@1 39.380	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [7][0/782]	Time 7.988s (7.988s)	Speed 8.0 samples/s	Data 7.662s (7.662s)	Loss 13233.43848 (13233.43848)	Accuracy@1 37.500 (37.500)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][100/782]	Time 0.249s (0.340s)	Speed 256.5 samples/s	Data 0.000s (0.076s)	Loss 12979.46973 (13036.37888)	Accuracy@1 35.938 (41.723)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][200/782]	Time 0.243s (0.296s)	Speed 263.0 samples/s	Data 0.000s (0.038s)	Loss 13029.05762 (13031.27802)	Accuracy@1 45.312 (41.542)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][300/782]	Time 0.292s (0.285s)	Speed 219.2 samples/s	Data 0.000s (0.026s)	Loss 12970.34180 (13028.01789)	Accuracy@1 37.500 (41.622)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][400/782]	Time 0.240s (0.278s)	Speed 266.6 samples/s	Data 0.000s (0.019s)	Loss 13131.43359 (13028.26130)	Accuracy@1 40.625 (41.767)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][500/782]	Time 0.240s (0.274s)	Speed 266.6 samples/s	Data 0.000s (0.015s)	Loss 13144.48340 (13028.78193)	Accuracy@1 35.938 (41.614)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][600/782]	Time 0.256s (0.271s)	Speed 250.1 samples/s	Data 0.000s (0.013s)	Loss 13108.88770 (13029.33951)	Accuracy@1 31.250 (41.561)	Accuracy@5 0.000 (0.000)	
+Epoch: [7][700/782]	Time 0.268s (0.269s)	Speed 239.2 samples/s	Data 0.000s (0.011s)	Loss 13000.60645 (13028.62763)	Accuracy@1 39.062 (41.853)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.230	Loss 1.6271	Error@1 57.900	Error@5 100.000	Accuracy@1 42.100	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [8][0/782]	Time 10.004s (10.004s)	Speed 6.4 samples/s	Data 7.947s (7.947s)	Loss 12927.11914 (12927.11914)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][100/782]	Time 0.260s (0.355s)	Speed 245.9 samples/s	Data 0.000s (0.079s)	Loss 13156.43652 (13021.64178)	Accuracy@1 46.875 (43.735)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][200/782]	Time 0.236s (0.306s)	Speed 271.5 samples/s	Data 0.000s (0.040s)	Loss 12985.06152 (13023.20419)	Accuracy@1 43.750 (42.755)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][300/782]	Time 0.246s (0.292s)	Speed 260.5 samples/s	Data 0.000s (0.027s)	Loss 13106.03906 (13026.21761)	Accuracy@1 39.062 (42.359)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][400/782]	Time 0.251s (0.285s)	Speed 254.6 samples/s	Data 0.000s (0.020s)	Loss 12996.65332 (13026.96733)	Accuracy@1 32.812 (42.488)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][500/782]	Time 0.282s (0.278s)	Speed 226.6 samples/s	Data 0.000s (0.016s)	Loss 13057.31934 (13025.28654)	Accuracy@1 43.750 (42.409)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][600/782]	Time 0.302s (0.275s)	Speed 212.1 samples/s	Data 0.000s (0.013s)	Loss 13144.88281 (13025.36356)	Accuracy@1 34.375 (42.398)	Accuracy@5 0.000 (0.000)	
+Epoch: [8][700/782]	Time 0.252s (0.272s)	Speed 254.0 samples/s	Data 0.000s (0.011s)	Loss 13010.30859 (13025.20053)	Accuracy@1 37.500 (42.422)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.212	Loss 1.5487	Error@1 55.100	Error@5 100.000	Accuracy@1 44.900	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [9][0/782]	Time 8.111s (8.111s)	Speed 7.9 samples/s	Data 7.775s (7.775s)	Loss 12947.52246 (12947.52246)	Accuracy@1 34.375 (34.375)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][100/782]	Time 0.264s (0.331s)	Speed 242.9 samples/s	Data 0.000s (0.077s)	Loss 13025.08984 (13034.13530)	Accuracy@1 45.312 (42.172)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][200/782]	Time 0.275s (0.299s)	Speed 232.6 samples/s	Data 0.000s (0.039s)	Loss 13007.35840 (13028.38065)	Accuracy@1 32.812 (42.009)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][300/782]	Time 0.257s (0.286s)	Speed 248.6 samples/s	Data 0.000s (0.026s)	Loss 12970.12500 (13027.65336)	Accuracy@1 39.062 (42.229)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][400/782]	Time 0.262s (0.278s)	Speed 244.1 samples/s	Data 0.000s (0.020s)	Loss 13141.59277 (13023.96160)	Accuracy@1 39.062 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][500/782]	Time 0.261s (0.274s)	Speed 245.3 samples/s	Data 0.000s (0.016s)	Loss 13008.98730 (13022.04206)	Accuracy@1 32.812 (42.421)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][600/782]	Time 0.228s (0.271s)	Speed 281.3 samples/s	Data 0.000s (0.013s)	Loss 13019.71094 (13022.89549)	Accuracy@1 42.188 (42.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [9][700/782]	Time 0.247s (0.269s)	Speed 259.3 samples/s	Data 0.000s (0.011s)	Loss 13037.26172 (13021.73380)	Accuracy@1 45.312 (42.669)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.219	Loss 1.5608	Error@1 56.750	Error@5 100.000	Accuracy@1 43.250	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [10][0/782]	Time 8.022s (8.022s)	Speed 8.0 samples/s	Data 7.695s (7.695s)	Loss 13198.41797 (13198.41797)	Accuracy@1 39.062 (39.062)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][100/782]	Time 0.272s (0.331s)	Speed 235.6 samples/s	Data 0.000s (0.076s)	Loss 13169.23633 (13033.51070)	Accuracy@1 35.938 (42.605)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][200/782]	Time 0.241s (0.297s)	Speed 265.3 samples/s	Data 0.000s (0.038s)	Loss 12998.74902 (13031.55795)	Accuracy@1 46.875 (42.825)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][300/782]	Time 0.244s (0.285s)	Speed 262.8 samples/s	Data 0.000s (0.026s)	Loss 13010.58594 (13031.14965)	Accuracy@1 50.000 (42.847)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][400/782]	Time 0.257s (0.276s)	Speed 249.0 samples/s	Data 0.000s (0.019s)	Loss 12872.52832 (13028.40200)	Accuracy@1 51.562 (42.971)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][500/782]	Time 0.266s (0.272s)	Speed 240.5 samples/s	Data 0.000s (0.015s)	Loss 13189.91309 (13028.86476)	Accuracy@1 40.625 (43.064)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][600/782]	Time 0.259s (0.270s)	Speed 247.3 samples/s	Data 0.000s (0.013s)	Loss 13018.74805 (13030.05931)	Accuracy@1 46.875 (43.142)	Accuracy@5 0.000 (0.000)	
+Epoch: [10][700/782]	Time 0.228s (0.268s)	Speed 280.3 samples/s	Data 0.000s (0.011s)	Loss 13161.68262 (13032.06701)	Accuracy@1 51.562 (43.280)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.216	Loss 1.5354	Error@1 54.760	Error@5 100.000	Accuracy@1 45.240	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [11][0/782]	Time 8.081s (8.081s)	Speed 7.9 samples/s	Data 7.739s (7.739s)	Loss 12875.75586 (12875.75586)	Accuracy@1 53.125 (53.125)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][100/782]	Time 0.256s (0.331s)	Speed 250.3 samples/s	Data 0.000s (0.077s)	Loss 13106.61621 (13026.29632)	Accuracy@1 40.625 (44.585)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][200/782]	Time 0.244s (0.296s)	Speed 262.1 samples/s	Data 0.000s (0.039s)	Loss 12898.04785 (13018.20014)	Accuracy@1 40.625 (43.734)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][300/782]	Time 0.253s (0.283s)	Speed 253.1 samples/s	Data 0.000s (0.026s)	Loss 13008.22461 (13015.93170)	Accuracy@1 39.062 (43.283)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][400/782]	Time 0.274s (0.277s)	Speed 233.6 samples/s	Data 0.000s (0.019s)	Loss 13045.26172 (13016.36247)	Accuracy@1 46.875 (43.540)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][500/782]	Time 0.261s (0.274s)	Speed 245.7 samples/s	Data 0.000s (0.016s)	Loss 12879.58008 (13017.63160)	Accuracy@1 37.500 (43.432)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][600/782]	Time 0.236s (0.271s)	Speed 270.9 samples/s	Data 0.000s (0.013s)	Loss 12884.12402 (13020.60968)	Accuracy@1 43.750 (43.487)	Accuracy@5 0.000 (0.000)	
+Epoch: [11][700/782]	Time 0.251s (0.268s)	Speed 255.1 samples/s	Data 0.000s (0.011s)	Loss 12986.81348 (13019.65769)	Accuracy@1 50.000 (43.623)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.211	Loss 1.4803	Error@1 53.180	Error@5 100.000	Accuracy@1 46.820	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [12][0/782]	Time 8.090s (8.090s)	Speed 7.9 samples/s	Data 7.764s (7.764s)	Loss 13289.20215 (13289.20215)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][100/782]	Time 0.254s (0.335s)	Speed 252.1 samples/s	Data 0.000s (0.077s)	Loss 12992.73633 (13032.32603)	Accuracy@1 43.750 (44.384)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][200/782]	Time 0.247s (0.292s)	Speed 258.6 samples/s	Data 0.000s (0.039s)	Loss 13087.43652 (13030.44199)	Accuracy@1 40.625 (44.185)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][300/782]	Time 0.256s (0.279s)	Speed 249.9 samples/s	Data 0.000s (0.026s)	Loss 13164.71582 (13022.24116)	Accuracy@1 46.875 (44.036)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][400/782]	Time 0.237s (0.273s)	Speed 270.0 samples/s	Data 0.000s (0.020s)	Loss 13161.10547 (13031.51876)	Accuracy@1 37.500 (44.186)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][500/782]	Time 0.249s (0.269s)	Speed 257.0 samples/s	Data 0.000s (0.016s)	Loss 13001.83398 (13027.13178)	Accuracy@1 51.562 (44.190)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][600/782]	Time 0.248s (0.265s)	Speed 258.3 samples/s	Data 0.000s (0.013s)	Loss 13105.03418 (13027.33588)	Accuracy@1 40.625 (43.974)	Accuracy@5 0.000 (0.000)	
+Epoch: [12][700/782]	Time 0.240s (0.262s)	Speed 266.6 samples/s	Data 0.000s (0.011s)	Loss 13113.20801 (13029.20356)	Accuracy@1 39.062 (43.991)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.255	Loss 1.4824	Error@1 53.380	Error@5 100.000	Accuracy@1 46.620	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [13][0/782]	Time 11.390s (11.390s)	Speed 5.6 samples/s	Data 7.944s (7.944s)	Loss 13118.90430 (13118.90430)	Accuracy@1 39.062 (39.062)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][100/782]	Time 0.250s (0.370s)	Speed 255.9 samples/s	Data 0.000s (0.079s)	Loss 13096.51367 (13027.96307)	Accuracy@1 42.188 (43.549)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][200/782]	Time 0.236s (0.312s)	Speed 271.4 samples/s	Data 0.000s (0.040s)	Loss 12980.52832 (13022.01734)	Accuracy@1 42.188 (43.742)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][300/782]	Time 0.246s (0.293s)	Speed 259.9 samples/s	Data 0.000s (0.027s)	Loss 12931.11230 (13026.22892)	Accuracy@1 53.125 (43.942)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][400/782]	Time 0.233s (0.284s)	Speed 274.6 samples/s	Data 0.000s (0.020s)	Loss 12987.59863 (13026.14383)	Accuracy@1 50.000 (43.871)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][500/782]	Time 0.241s (0.279s)	Speed 266.1 samples/s	Data 0.000s (0.016s)	Loss 12941.70898 (13026.96133)	Accuracy@1 45.312 (44.059)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][600/782]	Time 0.270s (0.276s)	Speed 236.9 samples/s	Data 0.000s (0.013s)	Loss 13025.20117 (13026.07538)	Accuracy@1 46.875 (44.223)	Accuracy@5 0.000 (0.000)	
+Epoch: [13][700/782]	Time 0.269s (0.274s)	Speed 237.7 samples/s	Data 0.000s (0.011s)	Loss 12870.86719 (13025.49986)	Accuracy@1 48.438 (44.327)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.213	Loss 1.4642	Error@1 52.360	Error@5 100.000	Accuracy@1 47.640	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [14][0/782]	Time 8.085s (8.085s)	Speed 7.9 samples/s	Data 7.757s (7.757s)	Loss 13247.48535 (13247.48535)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][100/782]	Time 0.245s (0.332s)	Speed 260.8 samples/s	Data 0.000s (0.077s)	Loss 12950.39941 (13017.46282)	Accuracy@1 35.938 (44.137)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][200/782]	Time 0.257s (0.291s)	Speed 249.0 samples/s	Data 0.000s (0.039s)	Loss 13071.88672 (13018.46157)	Accuracy@1 60.938 (44.380)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][300/782]	Time 0.239s (0.277s)	Speed 267.9 samples/s	Data 0.000s (0.026s)	Loss 13011.98438 (13015.35007)	Accuracy@1 45.312 (44.243)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][400/782]	Time 0.275s (0.272s)	Speed 232.7 samples/s	Data 0.000s (0.019s)	Loss 13173.55762 (13020.80856)	Accuracy@1 39.062 (44.323)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][500/782]	Time 0.218s (0.269s)	Speed 293.8 samples/s	Data 0.000s (0.016s)	Loss 12967.94043 (13019.77776)	Accuracy@1 43.750 (44.467)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][600/782]	Time 0.253s (0.267s)	Speed 253.4 samples/s	Data 0.000s (0.013s)	Loss 12915.70508 (13018.76929)	Accuracy@1 39.062 (44.366)	Accuracy@5 0.000 (0.000)	
+Epoch: [14][700/782]	Time 0.223s (0.266s)	Speed 286.6 samples/s	Data 0.000s (0.011s)	Loss 12978.53809 (13016.96760)	Accuracy@1 43.750 (44.492)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.4747	Error@1 52.290	Error@5 100.000	Accuracy@1 47.710	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [15][0/782]	Time 18.815s (18.815s)	Speed 3.4 samples/s	Data 7.846s (7.846s)	Loss 13080.62793 (13080.62793)	Accuracy@1 40.625 (40.625)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][100/782]	Time 0.283s (0.439s)	Speed 226.3 samples/s	Data 0.000s (0.078s)	Loss 13038.40137 (13021.48278)	Accuracy@1 45.312 (43.626)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][200/782]	Time 0.280s (0.348s)	Speed 228.9 samples/s	Data 0.000s (0.039s)	Loss 13006.99512 (13028.19093)	Accuracy@1 50.000 (44.084)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][300/782]	Time 0.250s (0.314s)	Speed 256.0 samples/s	Data 0.000s (0.026s)	Loss 12903.23340 (13027.65336)	Accuracy@1 57.812 (44.368)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][400/782]	Time 0.228s (0.299s)	Speed 280.6 samples/s	Data 0.000s (0.020s)	Loss 13010.32422 (13030.14002)	Accuracy@1 43.750 (44.740)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][500/782]	Time 0.245s (0.289s)	Speed 260.8 samples/s	Data 0.000s (0.016s)	Loss 12909.08594 (13030.01255)	Accuracy@1 40.625 (44.876)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][600/782]	Time 0.226s (0.284s)	Speed 283.1 samples/s	Data 0.000s (0.013s)	Loss 12923.80469 (13030.88050)	Accuracy@1 39.062 (44.751)	Accuracy@5 0.000 (0.000)	
+Epoch: [15][700/782]	Time 0.269s (0.279s)	Speed 238.1 samples/s	Data 0.000s (0.011s)	Loss 12979.96973 (13029.66474)	Accuracy@1 40.625 (44.731)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.6790	Error@1 59.170	Error@5 100.000	Accuracy@1 40.830	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [16][0/782]	Time 7.674s (7.674s)	Speed 8.3 samples/s	Data 7.331s (7.331s)	Loss 13138.59082 (13138.59082)	Accuracy@1 39.062 (39.062)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][100/782]	Time 0.241s (0.337s)	Speed 265.7 samples/s	Data 0.000s (0.073s)	Loss 13123.78418 (13025.77432)	Accuracy@1 50.000 (44.879)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][200/782]	Time 0.260s (0.291s)	Speed 246.5 samples/s	Data 0.000s (0.037s)	Loss 12861.37402 (13027.00281)	Accuracy@1 48.438 (44.994)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][300/782]	Time 0.230s (0.281s)	Speed 278.6 samples/s	Data 0.000s (0.024s)	Loss 13139.80957 (13028.62898)	Accuracy@1 46.875 (45.224)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][400/782]	Time 0.263s (0.275s)	Speed 243.5 samples/s	Data 0.000s (0.018s)	Loss 13089.65039 (13026.16225)	Accuracy@1 39.062 (45.180)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][500/782]	Time 0.247s (0.271s)	Speed 259.2 samples/s	Data 0.000s (0.015s)	Loss 12893.21973 (13025.80301)	Accuracy@1 48.438 (45.359)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][600/782]	Time 0.254s (0.269s)	Speed 252.1 samples/s	Data 0.000s (0.012s)	Loss 13005.75781 (13025.58613)	Accuracy@1 57.812 (45.333)	Accuracy@5 0.000 (0.000)	
+Epoch: [16][700/782]	Time 0.243s (0.267s)	Speed 263.4 samples/s	Data 0.000s (0.011s)	Loss 12995.58789 (13023.87452)	Accuracy@1 45.312 (45.306)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.240	Loss 1.4795	Error@1 52.870	Error@5 100.000	Accuracy@1 47.130	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [17][0/782]	Time 8.185s (8.185s)	Speed 7.8 samples/s	Data 7.836s (7.836s)	Loss 13052.79688 (13052.79688)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][100/782]	Time 0.245s (0.334s)	Speed 260.8 samples/s	Data 0.000s (0.078s)	Loss 12954.60254 (13018.91520)	Accuracy@1 32.812 (45.684)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][200/782]	Time 0.263s (0.293s)	Speed 243.5 samples/s	Data 0.000s (0.039s)	Loss 13187.70508 (13022.60561)	Accuracy@1 32.812 (46.144)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][300/782]	Time 0.243s (0.283s)	Speed 263.5 samples/s	Data 0.000s (0.026s)	Loss 12935.65723 (13020.98841)	Accuracy@1 50.000 (45.733)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][400/782]	Time 0.224s (0.276s)	Speed 285.2 samples/s	Data 0.000s (0.020s)	Loss 13229.42969 (13022.30509)	Accuracy@1 50.000 (45.924)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][500/782]	Time 0.221s (0.271s)	Speed 289.4 samples/s	Data 0.000s (0.016s)	Loss 12932.14062 (13023.03030)	Accuracy@1 35.938 (45.690)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][600/782]	Time 0.247s (0.268s)	Speed 258.6 samples/s	Data 0.000s (0.013s)	Loss 13076.97949 (13025.49057)	Accuracy@1 53.125 (45.536)	Accuracy@5 0.000 (0.000)	
+Epoch: [17][700/782]	Time 0.259s (0.266s)	Speed 247.2 samples/s	Data 0.000s (0.011s)	Loss 13030.15137 (13026.56902)	Accuracy@1 37.500 (45.669)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.222	Loss 1.4201	Error@1 51.400	Error@5 100.000	Accuracy@1 48.600	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [18][0/782]	Time 8.364s (8.364s)	Speed 7.7 samples/s	Data 8.042s (8.042s)	Loss 12877.86621 (12877.86621)	Accuracy@1 50.000 (50.000)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][100/782]	Time 0.228s (0.330s)	Speed 280.9 samples/s	Data 0.000s (0.080s)	Loss 12801.28516 (13010.20338)	Accuracy@1 48.438 (45.359)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][200/782]	Time 0.238s (0.293s)	Speed 268.8 samples/s	Data 0.000s (0.040s)	Loss 12965.71094 (13012.10596)	Accuracy@1 50.000 (45.608)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][300/782]	Time 0.289s (0.281s)	Speed 221.1 samples/s	Data 0.000s (0.027s)	Loss 13012.47168 (13015.08582)	Accuracy@1 43.750 (46.382)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][400/782]	Time 0.223s (0.275s)	Speed 287.4 samples/s	Data 0.000s (0.020s)	Loss 13000.53516 (13017.86725)	Accuracy@1 40.625 (46.033)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][500/782]	Time 0.235s (0.272s)	Speed 272.6 samples/s	Data 0.000s (0.016s)	Loss 13097.59375 (13016.57962)	Accuracy@1 40.625 (45.827)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][600/782]	Time 0.239s (0.269s)	Speed 267.3 samples/s	Data 0.000s (0.014s)	Loss 13160.04102 (13017.24426)	Accuracy@1 45.312 (45.832)	Accuracy@5 0.000 (0.000)	
+Epoch: [18][700/782]	Time 0.276s (0.268s)	Speed 232.0 samples/s	Data 0.000s (0.012s)	Loss 13059.28809 (13019.37604)	Accuracy@1 40.625 (45.798)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.218	Loss 1.4268	Error@1 50.710	Error@5 100.000	Accuracy@1 49.290	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [19][0/782]	Time 8.321s (8.321s)	Speed 7.7 samples/s	Data 7.764s (7.764s)	Loss 12999.49316 (12999.49316)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][100/782]	Time 0.316s (0.340s)	Speed 202.3 samples/s	Data 0.000s (0.077s)	Loss 13069.89746 (13024.87865)	Accuracy@1 39.062 (44.864)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][200/782]	Time 0.250s (0.300s)	Speed 256.4 samples/s	Data 0.000s (0.039s)	Loss 13032.70605 (13020.75745)	Accuracy@1 43.750 (45.336)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][300/782]	Time 0.234s (0.286s)	Speed 273.7 samples/s	Data 0.000s (0.026s)	Loss 12994.97266 (13020.87685)	Accuracy@1 45.312 (45.567)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][400/782]	Time 0.260s (0.279s)	Speed 245.8 samples/s	Data 0.000s (0.019s)	Loss 13135.96582 (13020.98221)	Accuracy@1 35.938 (45.761)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][500/782]	Time 0.252s (0.273s)	Speed 253.9 samples/s	Data 0.000s (0.016s)	Loss 12970.57227 (13021.19773)	Accuracy@1 42.188 (45.843)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][600/782]	Time 0.307s (0.272s)	Speed 208.1 samples/s	Data 0.000s (0.013s)	Loss 13063.82422 (13021.42402)	Accuracy@1 40.625 (45.856)	Accuracy@5 0.000 (0.000)	
+Epoch: [19][700/782]	Time 0.255s (0.271s)	Speed 250.7 samples/s	Data 0.000s (0.011s)	Loss 12869.82422 (13022.48118)	Accuracy@1 57.812 (45.903)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.223	Loss 1.4010	Error@1 50.750	Error@5 100.000	Accuracy@1 49.250	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [20][0/782]	Time 9.888s (9.888s)	Speed 6.5 samples/s	Data 7.638s (7.638s)	Loss 12861.10547 (12861.10547)	Accuracy@1 34.375 (34.375)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][100/782]	Time 0.246s (0.348s)	Speed 260.0 samples/s	Data 0.000s (0.076s)	Loss 13094.71973 (13029.55168)	Accuracy@1 48.438 (46.163)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][200/782]	Time 0.260s (0.301s)	Speed 246.2 samples/s	Data 0.000s (0.038s)	Loss 13014.53809 (13029.08827)	Accuracy@1 45.312 (46.362)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][300/782]	Time 0.261s (0.288s)	Speed 245.4 samples/s	Data 0.000s (0.025s)	Loss 13031.86914 (13026.01012)	Accuracy@1 45.312 (46.361)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][400/782]	Time 0.231s (0.283s)	Speed 276.8 samples/s	Data 0.000s (0.019s)	Loss 13175.55273 (13023.46429)	Accuracy@1 43.750 (46.591)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][500/782]	Time 0.277s (0.278s)	Speed 231.4 samples/s	Data 0.000s (0.015s)	Loss 12956.98047 (13019.96664)	Accuracy@1 50.000 (46.367)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][600/782]	Time 0.265s (0.275s)	Speed 241.4 samples/s	Data 0.000s (0.013s)	Loss 12990.84277 (13020.42292)	Accuracy@1 50.000 (46.264)	Accuracy@5 0.000 (0.000)	
+Epoch: [20][700/782]	Time 0.267s (0.272s)	Speed 239.3 samples/s	Data 0.000s (0.011s)	Loss 13038.67578 (13019.96236)	Accuracy@1 43.750 (46.151)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.222	Loss 1.3947	Error@1 49.860	Error@5 100.000	Accuracy@1 50.140	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [21][0/782]	Time 8.994s (8.994s)	Speed 7.1 samples/s	Data 7.848s (7.848s)	Loss 12960.15820 (12960.15820)	Accuracy@1 45.312 (45.312)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][100/782]	Time 0.283s (0.338s)	Speed 225.8 samples/s	Data 0.000s (0.078s)	Loss 12930.12012 (13026.98648)	Accuracy@1 43.750 (45.359)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][200/782]	Time 0.301s (0.299s)	Speed 212.8 samples/s	Data 0.000s (0.039s)	Loss 13155.03320 (13022.48938)	Accuracy@1 43.750 (46.253)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][300/782]	Time 0.228s (0.285s)	Speed 281.0 samples/s	Data 0.000s (0.026s)	Loss 13017.59180 (13029.75839)	Accuracy@1 43.750 (46.325)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][400/782]	Time 0.232s (0.278s)	Speed 276.2 samples/s	Data 0.000s (0.020s)	Loss 12987.75488 (13026.96156)	Accuracy@1 51.562 (46.388)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][500/782]	Time 0.271s (0.274s)	Speed 236.1 samples/s	Data 0.000s (0.016s)	Loss 13030.51953 (13025.92785)	Accuracy@1 43.750 (46.208)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][600/782]	Time 0.244s (0.273s)	Speed 261.9 samples/s	Data 0.000s (0.013s)	Loss 13220.01660 (13029.65964)	Accuracy@1 51.562 (46.376)	Accuracy@5 0.000 (0.000)	
+Epoch: [21][700/782]	Time 0.228s (0.269s)	Speed 280.3 samples/s	Data 0.000s (0.011s)	Loss 13111.92871 (13029.99705)	Accuracy@1 51.562 (46.365)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.221	Loss 1.4291	Error@1 51.860	Error@5 100.000	Accuracy@1 48.140	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [22][0/782]	Time 8.158s (8.158s)	Speed 7.8 samples/s	Data 7.826s (7.826s)	Loss 13017.14258 (13017.14258)	Accuracy@1 46.875 (46.875)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][100/782]	Time 0.283s (0.351s)	Speed 225.8 samples/s	Data 0.000s (0.078s)	Loss 12919.44629 (13024.45511)	Accuracy@1 42.188 (46.535)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][200/782]	Time 0.248s (0.307s)	Speed 258.1 samples/s	Data 0.000s (0.039s)	Loss 13089.48047 (13028.51424)	Accuracy@1 42.188 (46.323)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][300/782]	Time 0.323s (0.291s)	Speed 198.0 samples/s	Data 0.000s (0.026s)	Loss 12994.45020 (13027.80312)	Accuracy@1 35.938 (46.039)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][400/782]	Time 0.247s (0.283s)	Speed 258.6 samples/s	Data 0.000s (0.020s)	Loss 13059.55762 (13029.42457)	Accuracy@1 46.875 (46.127)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][500/782]	Time 0.259s (0.277s)	Speed 246.8 samples/s	Data 0.000s (0.016s)	Loss 12920.59570 (13027.87074)	Accuracy@1 48.438 (46.276)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][600/782]	Time 0.244s (0.273s)	Speed 262.5 samples/s	Data 0.000s (0.013s)	Loss 13068.87598 (13028.28950)	Accuracy@1 46.875 (46.264)	Accuracy@5 0.000 (0.000)	
+Epoch: [22][700/782]	Time 0.237s (0.271s)	Speed 270.4 samples/s	Data 0.000s (0.011s)	Loss 13008.10645 (13028.70740)	Accuracy@1 50.000 (46.409)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.219	Loss 1.4322	Error@1 51.200	Error@5 100.000	Accuracy@1 48.800	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [23][0/782]	Time 8.124s (8.124s)	Speed 7.9 samples/s	Data 7.798s (7.798s)	Loss 12979.07715 (12979.07715)	Accuracy@1 54.688 (54.688)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][100/782]	Time 0.247s (0.336s)	Speed 259.5 samples/s	Data 0.000s (0.077s)	Loss 13039.89844 (13027.29136)	Accuracy@1 46.875 (47.463)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][200/782]	Time 0.256s (0.297s)	Speed 250.2 samples/s	Data 0.000s (0.039s)	Loss 13033.00195 (13032.61107)	Accuracy@1 39.062 (47.512)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][300/782]	Time 0.257s (0.287s)	Speed 248.6 samples/s	Data 0.000s (0.026s)	Loss 13073.34473 (13032.71719)	Accuracy@1 46.875 (47.244)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][400/782]	Time 0.268s (0.280s)	Speed 239.2 samples/s	Data 0.000s (0.020s)	Loss 13162.00488 (13034.67211)	Accuracy@1 51.562 (47.035)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][500/782]	Time 0.279s (0.276s)	Speed 229.1 samples/s	Data 0.000s (0.016s)	Loss 12998.31055 (13031.63895)	Accuracy@1 50.000 (47.012)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][600/782]	Time 0.234s (0.273s)	Speed 273.5 samples/s	Data 0.000s (0.013s)	Loss 12871.53809 (13027.90429)	Accuracy@1 51.562 (46.976)	Accuracy@5 0.000 (0.000)	
+Epoch: [23][700/782]	Time 0.259s (0.271s)	Speed 247.2 samples/s	Data 0.000s (0.011s)	Loss 13073.12402 (13030.04560)	Accuracy@1 45.312 (47.073)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.4277	Error@1 50.680	Error@5 100.000	Accuracy@1 49.320	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [24][0/782]	Time 8.184s (8.184s)	Speed 7.8 samples/s	Data 7.845s (7.845s)	Loss 13064.33691 (13064.33691)	Accuracy@1 50.000 (50.000)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][100/782]	Time 0.307s (0.334s)	Speed 208.4 samples/s	Data 0.000s (0.078s)	Loss 13147.14062 (13030.52808)	Accuracy@1 39.062 (47.277)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][200/782]	Time 0.229s (0.298s)	Speed 279.5 samples/s	Data 0.000s (0.039s)	Loss 12992.95898 (13018.82022)	Accuracy@1 37.500 (47.069)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][300/782]	Time 0.252s (0.284s)	Speed 254.0 samples/s	Data 0.000s (0.026s)	Loss 13001.23828 (13016.33448)	Accuracy@1 48.438 (46.792)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][400/782]	Time 0.229s (0.278s)	Speed 280.0 samples/s	Data 0.000s (0.020s)	Loss 12960.08008 (13021.45477)	Accuracy@1 46.875 (46.871)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][500/782]	Time 0.301s (0.274s)	Speed 212.5 samples/s	Data 0.000s (0.016s)	Loss 12827.04199 (13019.26559)	Accuracy@1 37.500 (46.881)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][600/782]	Time 0.243s (0.271s)	Speed 263.4 samples/s	Data 0.000s (0.013s)	Loss 13026.36816 (13021.73990)	Accuracy@1 48.438 (47.013)	Accuracy@5 0.000 (0.000)	
+Epoch: [24][700/782]	Time 0.226s (0.269s)	Speed 283.0 samples/s	Data 0.000s (0.011s)	Loss 13078.35449 (13021.82524)	Accuracy@1 50.000 (46.991)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.226	Loss 1.4270	Error@1 51.300	Error@5 100.000	Accuracy@1 48.700	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [25][0/782]	Time 10.283s (10.283s)	Speed 6.2 samples/s	Data 8.101s (8.101s)	Loss 13078.83594 (13078.83594)	Accuracy@1 46.875 (46.875)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][100/782]	Time 0.241s (0.371s)	Speed 265.3 samples/s	Data 0.000s (0.080s)	Loss 13005.95020 (13034.18275)	Accuracy@1 45.312 (46.643)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][200/782]	Time 0.243s (0.316s)	Speed 263.8 samples/s	Data 0.000s (0.040s)	Loss 12975.99219 (13032.47516)	Accuracy@1 53.125 (46.486)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][300/782]	Time 0.227s (0.299s)	Speed 282.2 samples/s	Data 0.000s (0.027s)	Loss 13027.10645 (13031.86302)	Accuracy@1 45.312 (46.808)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][400/782]	Time 0.222s (0.289s)	Speed 288.9 samples/s	Data 0.000s (0.020s)	Loss 13086.84082 (13030.25598)	Accuracy@1 42.188 (46.719)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][500/782]	Time 0.242s (0.282s)	Speed 265.0 samples/s	Data 0.000s (0.016s)	Loss 13145.99316 (13030.26929)	Accuracy@1 46.875 (46.747)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][600/782]	Time 0.248s (0.278s)	Speed 258.3 samples/s	Data 0.000s (0.014s)	Loss 12953.31152 (13029.31021)	Accuracy@1 35.938 (46.631)	Accuracy@5 0.000 (0.000)	
+Epoch: [25][700/782]	Time 0.235s (0.275s)	Speed 272.0 samples/s	Data 0.000s (0.012s)	Loss 12847.63281 (13027.63580)	Accuracy@1 42.188 (46.786)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.3780	Error@1 49.670	Error@5 100.000	Accuracy@1 50.330	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [26][0/782]	Time 8.195s (8.195s)	Speed 7.8 samples/s	Data 7.868s (7.868s)	Loss 13097.85840 (13097.85840)	Accuracy@1 34.375 (34.375)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][100/782]	Time 0.290s (0.332s)	Speed 220.9 samples/s	Data 0.000s (0.078s)	Loss 12895.96973 (13029.23645)	Accuracy@1 48.438 (47.556)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][200/782]	Time 0.261s (0.295s)	Speed 245.0 samples/s	Data 0.000s (0.039s)	Loss 13021.92285 (13035.75242)	Accuracy@1 51.562 (47.544)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][300/782]	Time 0.251s (0.281s)	Speed 254.7 samples/s	Data 0.000s (0.026s)	Loss 13002.71289 (13032.28344)	Accuracy@1 50.000 (47.602)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][400/782]	Time 0.267s (0.273s)	Speed 239.4 samples/s	Data 0.000s (0.020s)	Loss 13023.63086 (13028.97936)	Accuracy@1 39.062 (47.183)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][500/782]	Time 0.231s (0.270s)	Speed 277.4 samples/s	Data 0.000s (0.016s)	Loss 12979.21875 (13031.01063)	Accuracy@1 42.188 (47.171)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][600/782]	Time 0.297s (0.266s)	Speed 215.2 samples/s	Data 0.000s (0.013s)	Loss 13037.87305 (13028.64652)	Accuracy@1 48.438 (47.203)	Accuracy@5 0.000 (0.000)	
+Epoch: [26][700/782]	Time 0.258s (0.264s)	Speed 247.7 samples/s	Data 0.000s (0.011s)	Loss 12986.35352 (13027.00217)	Accuracy@1 46.875 (47.174)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.222	Loss 1.3689	Error@1 48.710	Error@5 100.000	Accuracy@1 51.290	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [27][0/782]	Time 8.159s (8.159s)	Speed 7.8 samples/s	Data 7.809s (7.809s)	Loss 12963.93457 (12963.93457)	Accuracy@1 48.438 (48.438)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][100/782]	Time 0.295s (0.333s)	Speed 217.2 samples/s	Data 0.000s (0.077s)	Loss 13015.04492 (13017.23432)	Accuracy@1 40.625 (47.912)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][200/782]	Time 0.245s (0.291s)	Speed 261.0 samples/s	Data 0.000s (0.039s)	Loss 12868.23535 (13016.33306)	Accuracy@1 42.188 (47.645)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][300/782]	Time 0.257s (0.281s)	Speed 248.6 samples/s	Data 0.000s (0.026s)	Loss 12934.19531 (13020.18918)	Accuracy@1 43.750 (47.238)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][400/782]	Time 0.303s (0.272s)	Speed 211.3 samples/s	Data 0.000s (0.020s)	Loss 12961.82227 (13021.12206)	Accuracy@1 46.875 (47.296)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][500/782]	Time 0.248s (0.269s)	Speed 258.2 samples/s	Data 0.000s (0.016s)	Loss 13016.29297 (13019.14131)	Accuracy@1 40.625 (47.265)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][600/782]	Time 0.247s (0.266s)	Speed 259.2 samples/s	Data 0.000s (0.013s)	Loss 12971.90039 (13021.48826)	Accuracy@1 48.438 (47.452)	Accuracy@5 0.000 (0.000)	
+Epoch: [27][700/782]	Time 0.239s (0.265s)	Speed 267.7 samples/s	Data 0.000s (0.011s)	Loss 13115.60547 (13022.36724)	Accuracy@1 46.875 (47.461)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.215	Loss 1.3981	Error@1 49.990	Error@5 100.000	Accuracy@1 50.010	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [28][0/782]	Time 8.278s (8.278s)	Speed 7.7 samples/s	Data 7.937s (7.937s)	Loss 12947.50000 (12947.50000)	Accuracy@1 65.625 (65.625)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][100/782]	Time 0.261s (0.333s)	Speed 244.8 samples/s	Data 0.000s (0.079s)	Loss 13026.73828 (13026.85217)	Accuracy@1 50.000 (48.113)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][200/782]	Time 0.232s (0.301s)	Speed 275.3 samples/s	Data 0.000s (0.040s)	Loss 12956.20703 (13031.09343)	Accuracy@1 40.625 (47.629)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][300/782]	Time 0.249s (0.286s)	Speed 257.3 samples/s	Data 0.000s (0.026s)	Loss 12825.07129 (13025.53801)	Accuracy@1 48.438 (47.612)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][400/782]	Time 0.246s (0.278s)	Speed 260.5 samples/s	Data 0.000s (0.020s)	Loss 13088.44922 (13028.70892)	Accuracy@1 45.312 (47.810)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][500/782]	Time 0.264s (0.274s)	Speed 242.5 samples/s	Data 0.000s (0.016s)	Loss 13148.49121 (13023.12863)	Accuracy@1 45.312 (47.914)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][600/782]	Time 0.251s (0.271s)	Speed 254.7 samples/s	Data 0.000s (0.013s)	Loss 12960.29883 (13023.92693)	Accuracy@1 51.562 (47.889)	Accuracy@5 0.000 (0.000)	
+Epoch: [28][700/782]	Time 0.309s (0.269s)	Speed 207.2 samples/s	Data 0.000s (0.011s)	Loss 13226.73242 (13023.42187)	Accuracy@1 40.625 (47.829)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.213	Loss 1.3624	Error@1 48.380	Error@5 100.000	Accuracy@1 51.620	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [29][0/782]	Time 12.558s (12.558s)	Speed 5.1 samples/s	Data 7.922s (7.922s)	Loss 13021.83887 (13021.83887)	Accuracy@1 42.188 (42.188)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][100/782]	Time 0.305s (0.378s)	Speed 210.1 samples/s	Data 0.000s (0.079s)	Loss 13147.12012 (13029.16995)	Accuracy@1 31.250 (45.993)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][200/782]	Time 0.252s (0.321s)	Speed 253.8 samples/s	Data 0.000s (0.040s)	Loss 12928.18164 (13023.89972)	Accuracy@1 46.875 (46.945)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][300/782]	Time 0.319s (0.301s)	Speed 200.4 samples/s	Data 0.000s (0.026s)	Loss 12940.60938 (13027.12889)	Accuracy@1 46.875 (47.155)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][400/782]	Time 0.269s (0.290s)	Speed 237.7 samples/s	Data 0.000s (0.020s)	Loss 13084.34082 (13027.69316)	Accuracy@1 45.312 (47.257)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][500/782]	Time 0.254s (0.283s)	Speed 251.8 samples/s	Data 0.000s (0.016s)	Loss 12992.63086 (13025.66570)	Accuracy@1 54.688 (47.358)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][600/782]	Time 0.258s (0.278s)	Speed 248.1 samples/s	Data 0.000s (0.013s)	Loss 13117.39355 (13025.53288)	Accuracy@1 43.750 (47.387)	Accuracy@5 0.000 (0.000)	
+Epoch: [29][700/782]	Time 0.264s (0.276s)	Speed 242.3 samples/s	Data 0.000s (0.011s)	Loss 13062.35156 (13023.73897)	Accuracy@1 57.812 (47.651)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.249	Loss 1.3568	Error@1 48.850	Error@5 100.000	Accuracy@1 51.150	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [30][0/782]	Time 8.219s (8.219s)	Speed 7.8 samples/s	Data 7.890s (7.890s)	Loss 12971.31641 (12971.31641)	Accuracy@1 54.688 (54.688)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][100/782]	Time 0.283s (0.342s)	Speed 226.3 samples/s	Data 0.000s (0.078s)	Loss 13056.41211 (13021.24745)	Accuracy@1 48.438 (46.627)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][200/782]	Time 0.254s (0.300s)	Speed 252.2 samples/s	Data 0.000s (0.039s)	Loss 13051.15332 (13014.88652)	Accuracy@1 54.688 (47.163)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][300/782]	Time 0.252s (0.288s)	Speed 253.8 samples/s	Data 0.000s (0.026s)	Loss 12903.37793 (13013.91657)	Accuracy@1 57.812 (47.591)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][400/782]	Time 0.278s (0.280s)	Speed 229.8 samples/s	Data 0.000s (0.020s)	Loss 12844.59277 (13020.74442)	Accuracy@1 43.750 (47.530)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][500/782]	Time 0.241s (0.276s)	Speed 265.9 samples/s	Data 0.000s (0.016s)	Loss 12903.73633 (13022.31687)	Accuracy@1 57.812 (47.689)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][600/782]	Time 0.251s (0.274s)	Speed 255.0 samples/s	Data 0.000s (0.013s)	Loss 12916.50000 (13023.48521)	Accuracy@1 65.625 (47.751)	Accuracy@5 0.000 (0.000)	
+Epoch: [30][700/782]	Time 0.235s (0.271s)	Speed 272.0 samples/s	Data 0.000s (0.011s)	Loss 13028.82324 (13023.33918)	Accuracy@1 48.438 (47.780)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.223	Loss 1.3907	Error@1 49.750	Error@5 100.000	Accuracy@1 50.250	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [31][0/782]	Time 8.595s (8.595s)	Speed 7.4 samples/s	Data 8.252s (8.252s)	Loss 13064.85156 (13064.85156)	Accuracy@1 51.562 (51.562)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][100/782]	Time 0.267s (0.337s)	Speed 239.7 samples/s	Data 0.000s (0.082s)	Loss 13300.93848 (13027.29571)	Accuracy@1 51.562 (48.422)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][200/782]	Time 0.234s (0.298s)	Speed 273.3 samples/s	Data 0.000s (0.041s)	Loss 13157.15039 (13028.61233)	Accuracy@1 60.938 (48.080)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][300/782]	Time 0.292s (0.284s)	Speed 219.1 samples/s	Data 0.000s (0.028s)	Loss 13008.96484 (13029.39763)	Accuracy@1 39.062 (47.742)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][400/782]	Time 0.233s (0.277s)	Speed 275.1 samples/s	Data 0.000s (0.021s)	Loss 12977.68945 (13029.66434)	Accuracy@1 57.812 (48.114)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][500/782]	Time 0.263s (0.272s)	Speed 243.0 samples/s	Data 0.000s (0.017s)	Loss 13247.66504 (13027.68037)	Accuracy@1 50.000 (48.210)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][600/782]	Time 0.254s (0.270s)	Speed 252.0 samples/s	Data 0.000s (0.014s)	Loss 12955.96875 (13029.35292)	Accuracy@1 54.688 (48.240)	Accuracy@5 0.000 (0.000)	
+Epoch: [31][700/782]	Time 0.250s (0.268s)	Speed 256.2 samples/s	Data 0.000s (0.012s)	Loss 12955.85059 (13027.86780)	Accuracy@1 46.875 (48.146)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.237	Loss 1.3673	Error@1 48.210	Error@5 100.000	Accuracy@1 51.790	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [32][0/782]	Time 8.060s (8.060s)	Speed 7.9 samples/s	Data 7.729s (7.729s)	Loss 13040.20312 (13040.20312)	Accuracy@1 57.812 (57.812)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][100/782]	Time 0.262s (0.332s)	Speed 243.8 samples/s	Data 0.000s (0.077s)	Loss 12922.56055 (13014.84610)	Accuracy@1 40.625 (48.700)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][200/782]	Time 0.237s (0.295s)	Speed 270.2 samples/s	Data 0.000s (0.039s)	Loss 13160.78613 (13024.24366)	Accuracy@1 48.438 (48.352)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][300/782]	Time 0.254s (0.277s)	Speed 251.8 samples/s	Data 0.000s (0.026s)	Loss 12951.88281 (13026.51149)	Accuracy@1 42.188 (48.162)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][400/782]	Time 0.302s (0.274s)	Speed 211.7 samples/s	Data 0.000s (0.019s)	Loss 13041.52441 (13022.21720)	Accuracy@1 45.312 (48.102)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][500/782]	Time 0.234s (0.272s)	Speed 273.0 samples/s	Data 0.000s (0.016s)	Loss 13106.80566 (13025.53682)	Accuracy@1 48.438 (48.098)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][600/782]	Time 0.301s (0.271s)	Speed 212.7 samples/s	Data 0.000s (0.013s)	Loss 12886.81250 (13024.06858)	Accuracy@1 42.188 (48.118)	Accuracy@5 0.000 (0.000)	
+Epoch: [32][700/782]	Time 0.323s (0.270s)	Speed 198.2 samples/s	Data 0.000s (0.011s)	Loss 13099.71387 (13023.64936)	Accuracy@1 50.000 (48.052)	Accuracy@5 0.000 (0.000)	
+Test: Time 0.214	Loss 1.3596	Error@1 48.610	Error@5 100.000	Accuracy@1 51.390	Accuracy@5 0.000	
+=> saving checkpoint to output/cifar10/cls_mdeq_TINY
+Epoch: [33][0/782]	Time 9.159s (9.159s)	Speed 7.0 samples/s	Data 7.859s (7.859s)	Loss 13068.35352 (13068.35352)	Accuracy@1 43.750 (43.750)	Accuracy@5 0.000 (0.000)	
+Epoch: [33][100/782]	Time 0.270s (0.341s)	Speed 237.5 samples/s	Data 0.000s (0.078s)	Loss 13106.07324 (13042.40534)	Accuracy@1 42.188 (47.246)	Accuracy@5 0.000 (0.000)	
